@@ -1,0 +1,242 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516150706"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 3 Vol. 65 fol. 31r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1615"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Not specified"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giovanni Antonio; Simone Paroti; Pietro Agostino (d'); Santo Santis (de); Giovanni Cencio; Gaspare Cencio"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Giovanni Antonio, treasurer of the Accademia di San Luca, gives his consent to a sublet made by Simone Paroti to Pietro d'Agostino.    [Italian version]  Giovanni Antonio, camerario dell'Accademia di San Luca, da il suo consenso al subaffitto fatto da Simone Paroti a favore di Pietro d'Agostino."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rent",
+                    "Consent",
+                    "Painter",
+                    "Sculptor",
+                    "Obligation",
+                    "Treasurer",
+                    "Salary",
+                    "House",
+                    "Curia Romana",
+                    "Sublet"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/0678bf8d5a41d3ae226f2e7b2603c301/full/222,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 222
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1",
+            "type": "Canvas",
+            "height": 2174,
+            "width": 1606,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516150706f31r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/0678bf8d5a41d3ae226f2e7b2603c301/full/222,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 222
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/0678bf8d5a41d3ae226f2e7b2603c301/full/1477,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1477,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/0678bf8d5a41d3ae226f2e7b2603c301",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 31r]</p><p>Die 6a Iulii 1615</p><p>&nbsp;</p><p>Mag.cus d.&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio.html\">Io: Anto.s</a>&nbsp;Cam<em>era</em>rius et Uc.nis Accademia<em>e</em>&nbsp;S<em>anc</em>ti&nbsp;<span class=\"line-break\"><br></span>Luca<em>e</em>&nbsp;pictor<em>um</em>&nbsp;et scult<em>orum</em><sup>[1]</sup> Urbis vice, et n<em>om</em>i<em>n</em>e d<em>icta</em>e&nbsp;<span class=\"line-break\"><br></span>Accademia<em>e</em>, et p<em>ro</em>&nbsp;qua quat<em>enu</em>s opus sit de ratu etc.&nbsp;<span class=\"line-break\"><br></span>habita notitia de sublocatione domus&nbsp;<span class=\"line-break\"><br></span>d<em>icta</em>e Accademia<em>e</em>&nbsp;fact<em>a</em>&nbsp;p<em>er</em>&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/simone-paroti.html\">Simone</a><em><a href=\"https://www.nga.gov/accademia/en/persons/simone-paroti.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/simone-paroti.html\">&nbsp;Parodu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/simone-paroti.html\">m</a></em>&nbsp;ad&nbsp;<span class=\"line-break\"><br></span>favore<em>m</em>&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/pietro-agostino-d.html\">Petri Aug.ni</a>&nbsp;alt<em>erius</em>&nbsp;Aug.ni&nbsp;d<em>ict</em>e spon<em>te</em>&nbsp;etc. o<em>mn</em>i etc. [...]<sup>[2]</sup><span class=\"line-break\"><br></span>locationi Cons<em>ens</em>it etc. citra tu' ta<em>m</em>&nbsp;precii<sup>[3]</sup>d<em>ictae</em>&nbsp;oblig<em>atio</em>nis&nbsp;<span class=\"line-break\"><br></span>d<em>ict</em>i&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/simone-paroti.html\">Simonis</a>, et fact' In locatione In d<em>ict</em>a locatione [...]&nbsp;<span class=\"line-break\"><br></span>et ult<em>eriu</em>s locavit casso etc. [...]&nbsp;<span class=\"line-break\"><br></span>p<em>redi</em>cto&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/pietro-agostino-d.html\">Aug.no</a>&nbsp;p<em>er</em>&nbsp;annu<em>m</em>&nbsp;a die finit<em>ae</em>&nbsp;d<em>icta</em>e locationis&nbsp;<span class=\"line-break\"><br></span>fatt<em>ae</em>&nbsp;d<em>ict</em>i&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/simone-paroti.html\">Simoni</a>&nbsp;p<em>redict</em>u<em>m</em>&nbsp;p<em>ro</em>&nbsp;ead<em>em</em>&nbsp;pensione, et cum&nbsp;<span class=\"line-break\"><br></span>eisd<em>em</em>&nbsp;pattis renuntiii[4]et obligationibus&nbsp;<span class=\"line-break\"><br></span>In d<em>ict</em>o Inst<em>rument</em>o Cont<em>en</em>t<em>is</em>&nbsp;de quib<em>us</em>&nbsp;d<em>ictu</em>s&nbsp;Petru<em>s</em>&nbsp;Aug.nus&nbsp;<span class=\"line-break\"><br></span>d<em>ixi</em>t se esse Informat<em>us</em>&nbsp;etc. Pro q<em>uibus</em>&nbsp;al<em>ias</em>&nbsp;etc. et [...]etc.&nbsp;<span class=\"line-break\"><br></span>Iuran<em>dum</em>&nbsp;etc. cu<em>m</em>&nbsp;oblig[...] Cu<em>ria</em>&nbsp;R<em>omana</em>&nbsp;In foro p<em>rese</em>nt<em>ibus</em>&nbsp;In&nbsp;<span class=\"line-break\"><br></span>off<em>iti</em>o d.&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/santo-santis-de.html\">Santo de Santis</a>&nbsp;Rom<em>ano</em>&nbsp;et d&nbsp;Io'&nbsp;<span class=\"line-break\"><br></span>Cencio&nbsp;q.&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/gaspare-cencio.html\">Gaspari Cencii</a>&nbsp;Rom<em>ano</em>&nbsp;[testibus] etc.</p><p></p><p>[1]&nbsp;<em>Sic.</em>&nbsp;</p><p>[2]&nbsp;Brackets denote illegible passages.&nbsp;</p><p>[3]&nbsp;Uncertain.&nbsp;</p><p>[4]&nbsp;<em>Sic.</em>&nbsp;</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1#xywh=874,608,450,109",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>sublocatione (sublet)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516150706/canvas/1#xywh=713,320,283,166",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Cam<em>era</em>rius (treasurer)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol055116370115"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 551 fols. 64r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1637"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ercole Bertolucci"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  The Accademia di San Luca, represented by its procurator, petitions the civil court of the senator of Rome against Ercole Bertolucci for payment owed on rent.    [Italian version]  L’Accademia di San Luca ricorre presso il tribunale civile del senatore di Roma, assistita dal procuratore, contro Ercole Bertolucci in obbligo al pagamento di un affitto."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rent",
+                    "Payment",
+                    "Executive mandate"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/4f686f6a9588fc1d2d41fd1e9fd4a7a6/full/203,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 203
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1",
+            "type": "Canvas",
+            "height": 3527,
+            "width": 2390,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol551_1637_f64R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/4f686f6a9588fc1d2d41fd1e9fd4a7a6/full/203,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 203
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/4f686f6a9588fc1d2d41fd1e9fd4a7a6/full/1355,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1355,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/4f686f6a9588fc1d2d41fd1e9fd4a7a6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 64r]</p><p>Die Iovis 15 Ianuarii 1637<span class=\"line-break\"><br></span>Audientia etc.<span class=\"line-break\"><br></span>Pro Ven. Accademia Pictorum et Scultorum Urbis p<em>ri</em>n<em>cipa</em>li Contra<span class=\"line-break\"><br></span>DD. Erculem Bartolutiu<em>m</em> et eius Uxorem ex <em>adverso principa</em>les. Franciscus<span class=\"line-break\"><br></span>Santinus Curie Cap<em>ito</em>lii mand<em>atarius retulit in scrip</em>tis se die 14 huius dom<em>i</em> dim<em>issa</em><span class=\"line-break\"><br></span>copia eosdem citasse ad solvendum seu se solvisse do-<span class=\"line-break\"><br></span>cendum Instanti scuta 17 monete pro pensionibus<span class=\"line-break\"><br></span>decursis, et non solutis Iuxta forma<em>m</em> eor<em>um</em> obligatio-<span class=\"line-break\"><br></span>num de qua in actis calculandum quat<em>enu</em>s etc. docendum etc. al<em>ia</em>s<span class=\"line-break\"><br></span>videndum contra ipsos relaxari mandatum executivu<em>m </em>ad<span class=\"line-break\"><br></span>p<em>rimam</em> d<em>iem</em> Instante oedem p<em>ri</em>n<em>cipa</em>li sive etc. R<em>elatione facta comparu</em>it (…) Pr<em>ocurat</em>or et<span class=\"line-break\"><br></span>repetito Instr<em>ument</em>o locationis de quo in actis facto calculavit in<span class=\"line-break\"><br></span>scutis (…) monete proquibus petiit et obtinuit p<em>er</em> D. decerni</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1#xywh=1444,2601,701,204",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>mandatum executivu<em>m </em>(executive mandate)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/1#xywh=1736,2041,496,230",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>pensionibus (rent)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2",
+            "type": "Canvas",
+            "height": 3527,
+            "width": 2391,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol551_1637_f64V"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/b62dde8c9ff823004e670053060c56c9/full/203,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 203
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/b62dde8c9ff823004e670053060c56c9/full/1356,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1356,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/b62dde8c9ff823004e670053060c56c9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol055116370115/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 64v]</p><p>et relaxari mandatum executivu<em>m</em> ut s<em>upr</em>a nisi ad p<em>rimam</em> d<em>iem</em> <em>cum intimatio</em>ne omni etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

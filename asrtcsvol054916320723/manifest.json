@@ -1,0 +1,223 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054916320723"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 549 fol. 612r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1632"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Pasquasio Gualtieri; Pier Francesco Rossi; Persiano Pietrangeli"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  The Accademia di San Luca, represented by its camerario [treasurer] Pier Francesco Rossi, petitions the civil court of the senator of Rome against the “ferariolarum” [ironworker] Persiano Pietrangeli for payment owed on the rent of a house. The sum collected would be for Pasquasio Gualterio as creditor of Pietrangeli.    [Italian version]  L’Accademia di San Luca ricorre presso il tribunale civile del senatore di Roma, assistita dal proprio camerario [tesoriere] Pier Francesco Rossi, contro Persiano Petrangeli [fabbro?] in obbligo a un pagamento dell’affitto di una casa. L’ammontare spetterebbe a Pasquasio Gualterio come creditore di Petrangeli."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rent",
+                    "Payment"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/4ce0c7aac11eaca4fa1257b5bd1428d7/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1",
+            "type": "Canvas",
+            "height": 3437,
+            "width": 2286,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol549_1632_f612R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/4ce0c7aac11eaca4fa1257b5bd1428d7/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/4ce0c7aac11eaca4fa1257b5bd1428d7/full/1330,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1330,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/4ce0c7aac11eaca4fa1257b5bd1428d7",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 612r]</p><p>Pro ven. accademia pictoru<em>m</em> et Scultor<em>um</em> Urbis p<em>rincipa</em>l<em>i</em> con<em>tra</em><span class=\"line-break\"><br></span>D. Persianum Petriangeli ferioralor<em>um</em> ex <em>advers</em>o p<em>rincipa</em>l<em>em</em>.<span class=\"line-break\"><br></span>Odoardus mand<em>atarius</em> <em>retulit in scrip</em>tis se die 22 hu<em>iu</em>s d<em>omi</em> d<em>imissa</em> c<em>opia</em> eund<em>em</em> cit<em>ass</em>e ad vidend<em>um</em><span class=\"line-break\"><br></span>sibi Inhiberi ad stati<em>m</em> sive ad p<em>rimam</em> d<em>iem</em> et Interim quando-<span class=\"line-break\"><br></span>cumq<em>ue</em> ne subpena reiterande solutionis<span class=\"line-break\"><br></span>de proprio audeat pensiones domus p<em>ar</em>te debito<span class=\"line-break\"><br></span>seu debendas R. d. Pasquasio Gualterio d<em>ict</em>o Pas-<span class=\"line-break\"><br></span>quasio nec alteri per seu solvisse Tradere neq<em>ue</em><span class=\"line-break\"><br></span>consig<em>nar</em>e nisi Instantib<em>u</em>s satisfactis de canonibus<span class=\"line-break\"><br></span>decursis et n<em>on</em> solutis Instan<em>te</em> eod<em>em</em> p<em>rincipa</em>l<em>i </em>s<em>ive</em> etc.<span class=\"line-break\"><br></span>R<em>elatione facta comparu</em>it D. Petrus Fran.s de Rubeis Cam<em>erariu</em>s et petiit<span class=\"line-break\"><br></span>et ob<em>tinui</em>t Inhiberi ut s<em>upr</em>a sub penis etc. nisi ad p<em>rimam</em> d<em>iem</em> <em>cum intimatio</em>ne o<em>mni</em> sup<em>er</em> q<em>uibus</em> etc.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916320723/canvas/1#xywh=1017,1845,450,166",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>pensiones (rent)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

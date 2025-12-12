@@ -1,0 +1,345 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516241002"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 4 Vol. 102 fols. 8r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Not specified"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Giacinto Camilli; Giovanni Peperani; Nicola Salvati; Girolamo Sanguigno; Orazio Chiaravalle; Alessandro Giacomelli; Martino Barzesi; Marco Antonio Antonuccio"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Giacinto Camilli, executor of the young baron (baroncello) of the governor of Rome, has a writ of execution for 29 scudi, made on request of the Accademia di San Luca. The writ of execution concerns the ground rent of a vineyard, rented by Nicola Salvati, Girolamo Sanguigno, and Orazio Chiaravalle.    [Italian version]  Giacinto Camilli, esecutore del Baroncello del Governatore, ha un mandato esecutivo di 29 scudi, fatto su richiesta dell'Accademia di San Luca. Il mandato esecutivo riguarda il canone di una vigna, tenuta in affitto da Nicola Salvati, Girolamo Sanguigno e Orazio Chiaravalle."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Goods",
+                    "Vineyard",
+                    "Painter",
+                    "Sculptor",
+                    "Notarial act",
+                    "Academy",
+                    "Inheritance",
+                    "Executor",
+                    "Writ of execution",
+                    "Rent (ground)",
+                    "Governor of Rome",
+                    "Curia Capitolina",
+                    "Baron (young)"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/1bc86330d9cbda1ea0f9a0d793bf44c6/full/232,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 232
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1",
+            "type": "Canvas",
+            "height": 2144,
+            "width": 1660,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241002f8r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/1bc86330d9cbda1ea0f9a0d793bf44c6/full/232,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 232
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/1bc86330d9cbda1ea0f9a0d793bf44c6/full/1549,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1549,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/1bc86330d9cbda1ea0f9a0d793bf44c6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 8r]</p><p>Die Secund[a]<sup>[1]</sup> octobris 1624</p><p></p><p><a href=\"https://www.nga.gov/accademia/it/persons/giacinto-camilli.html\">Iacinthius q. Thesei Camilli</a> Fir[a]anus executor<span class=\"line-break\"><br></span>Bar[onc]elli Ill.mi et R.mi D. Alm[e] Urbis Gu[b]erna-<span class=\"line-break\"><br></span>toris sponte etc. [ac] [omn]i etc. habens suisq<em>ue</em> p<em>ro</em>ma-<span class=\"line-break\"><br></span>nibus tenens quoddam m[<em>a</em>]<em>ndat</em>um exec<em>utivu</em>m pro scu-<span class=\"line-break\"><br></span>tis viginti novem S. I.<sup>[2]</sup> relaxat<em>um</em> à p<em>er</em> Ill' et<span class=\"line-break\"><br></span>Ad.m Exc.t[i]D. m[…] Cur<em>iae</em> Cap<em>itolii</em> P<em>rim</em>o Coll<em>ateral</em>i p<em>er</em> acta mei etc.<span class=\"line-break\"><br></span>sub die 23 septembris prox<em>imi preteri</em>ti ad Inst<em>antia</em> Ven<em>erabi</em>lis Accade-<span class=\"line-break\"><br></span>mi[a<em>e</em>] DD. Pic[t]or<em>um</em> et Scul[pto]r<em>um</em> Urbis contra<span class=\"line-break\"><br></span>contra bona hered<em>itari</em>a q. <a href=\"https://www.nga.gov/accademia/it/persons/giovanni-peperani.html\">Io: Peperani</a> pro canonibus<span class=\"line-break\"><br></span>Vinea<em>e</em> posita<em>e</em> intus menia Urbis propè<span class=\"line-break\"><br></span>portam Maior[e]m nuncup[a]t<em>am</em> iuxtà ab uno<span class=\"line-break\"><br></span>bona D. <a href=\"https://www.nga.gov/accademia/it/persons/alessandro-giacomelli.html\">Alexandri Iacomelli</a> ab alio bona Vio-<span class=\"line-break\"><br></span>lantis Fa[r]esia<em>e</em> menia Urbis et vias publicas<span class=\"line-break\"><br></span>tanquam obedientia<em>e</em> fili[…] p[a]r[e][…]do superiori<em>bus</em><span class=\"line-break\"><br></span>mandatis d<em>ictu</em>m Mandatum executu<em>m</em> fuit ^pro d<em>ict</em>a summa scut<em>orum</em> vigintinovem S. I. ac expensis etiam m<em>anda</em>ti App.o Id<em>em</em> Iosephus^ super<span class=\"line-break\"><br></span>unis pendentibus in d<em>ict</em>a Vinea ac in Vascha<span class=\"line-break\"><br></span>domus eiusd<em>em</em> Vina<em>e</em> unas tetigendo pro-<span class=\"line-break\"><br></span>mittens dictas unas tenere penes se ad eff<em>ect</em>u<em>m</em><span class=\"line-break\"><br></span>consignandi ad o<em>mn</em>e m<em>anda</em>tu<em>m</em> D. P<em>rim</em>i Coll<em>ateral</em>is libere etc. omni etc.<span class=\"line-break\"><br></span>quam vineam asseret<em>ur</em> retineri in affictu<em>m</em> p<em>er</em> DD. <a href=\"https://www.nga.gov/accademia/it/persons/nicola-salvati.html\">Nicolau</a><em><a href=\"https://www.nga.gov/accademia/it/persons/nicola-salvati.html\">m</a></em></p><p></p><p>[1]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p><p>[2]&nbsp;S.I. often stands for Societas Iesu (Gesuiti).</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1#xywh=1328,242,251,73",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>executor (executor)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1#xywh=787,711,244,129",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Cur<em>iae</em> Cap<em>itolii </em>(Curia Capitolina)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1#xywh=362,976,400,119",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>bona hered<em>itari</em>a (inheritance)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1#xywh=1227,1012,356,79",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>canonibus (rent: ground)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/1#xywh=398,1074,227,121",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Vinea<em>e </em>(vineyard)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2",
+            "type": "Canvas",
+            "height": 2168,
+            "width": 1588,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516241002f8v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/4d743abef900087ede94a2b8ba81ab11/full/220,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 220
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/4d743abef900087ede94a2b8ba81ab11/full/1465,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1465,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/4d743abef900087ede94a2b8ba81ab11",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516241002/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 8v]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/nicola-salvati.html\">Salvatum</a> [et] D. <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-sanguigno.html\">Hieronimu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-sanguigno.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-sanguigno.html\"> Sanguineum</a> Rom<em>an</em>os<span class=\"line-break\"><br></span>et <a href=\"https://www.nga.gov/accademia/en/persons/orazio-chiaravalle.html\">Horatio Claravalle</a> de Ortona etc.<span class=\"line-break\"><br></span>Super quibus etc. Actum In supradicta Vinea<span class=\"line-break\"><br></span>p<em>rese</em>ntibus etc. <a href=\"https://www.nga.gov/accademia/en/persons/martino-barzesi.html\">Martino q. Alexandri Berc[ese]</a><span class=\"line-break\"><br></span>de Mont[e] Reg[a]li Pedemontano et<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/marco-antonio-antonuccio.html\">Marco Antonio Antonuccio</a> de Horto-<span class=\"line-break\"><br></span>na marsicane Dioc<em>es</em>is Testibus etc.<span class=\"line-break\"><br></span>Iosephus Pal.s etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1116090603"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 Vol. 81 Fols. 213r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1609"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Alessandro Saravezzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Quittance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Pigna (Rione)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Guazzino Guazzini; Pietro Santi Caballi; Vittorio Giustiniani; Lorenzo Torri; Paul Bril; Giuseppe Cidoni"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Giuseppe Cidoni, procurator of the Accademia e Congregazione di San Luca, receives 9 scudi and 45 baiocchi from the Società. The sum is owed to him because of Lorenzo Torri's patronage of the Accademia, following the decision of the judge Guazzino Guazzini. Giuseppe Cidoni gives quittance to the Congregazione.    [Italian version]  Giuseppe Cidoni, procuratore dell'Accademia e Congregazione di San Luca, riceve dalla società 9 scudi e 45 baiocchi. La somma gli è dovuta per il patrocinio fatto da Lorenzo Torri all'Accademia, secondo quanto prescritto dal giudice Guazzino Guazzini. Giuseppe Cidoni fa quietanza alla congregazione."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Goods",
+                    "Painter",
+                    "Procurator",
+                    "Society",
+                    "Quittance",
+                    "Academy",
+                    "Executor",
+                    "Judge",
+                    "Debit",
+                    "Patronage"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/152bf6e69e47280b1c4c95fc2a159fad/full/229,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 229
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1",
+            "type": "Canvas",
+            "height": 2192,
+            "width": 1678,
+            "label": {
+                "none": [
+                    "ASRTNCUff1116090603f213r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/152bf6e69e47280b1c4c95fc2a159fad/full/229,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 229
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/152bf6e69e47280b1c4c95fc2a159fad/full/1531,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1531,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/152bf6e69e47280b1c4c95fc2a159fad",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 213r]</p><p>Quiet<em>anti</em>a Pro Cong<em>regatio</em>ne<span class=\"line-break\"><br></span>Die 3 Iunii 1609</p><p></p><p>Pictoru<em>m</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\">Iosephus Cidonius</a> Pr<em>ocurat</em>or Academia<em>e</em> et Cong<em>regatio</em>nis Pictoru<em>m</em><span class=\"line-break\"><br></span>de Urbe sponte etc. ac omni mel<em>iori</em> modo etc. nunc in mei<span class=\"line-break\"><br></span>habuit et recepit a d<em>ict</em>a Cong<em>regatio</em>ne societatis Pictoru<em>m</em> et pro<span class=\"line-break\"><br></span>ea a D.<a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-torri.html\"> Laurentio de Toris</a> Camerario d<em>icta</em>e Cong<em>regatio</em>nis<span class=\"line-break\"><br></span>presenti etc. scuta Nove<em>m</em> et ba. 45 m<em>oneta</em>e Iul<em>iorum</em> decem pro scuto<span class=\"line-break\"><br></span>computatis in d<em>ict</em>a summa scuta quatuor p<em>er</em> ipsu<em>m</em> D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\">Iosephu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\">m</a></em> exact<em>a</em> ab N. emptore smaltoru<em>m</em> emptoru<em>m</em><span class=\"line-break\"><br></span>a D Paulo Brillo et alios Iul<em>ios</em> sex cu<em>m</em> dimidio<span class=\"line-break\"><br></span>exact<em>os</em> ab Exequtori, que scuta 9 et ba<em>iocca</em> 45 ad<span class=\"line-break\"><br></span>se traxit etc. de quib<em>us</em> etc. ren<em>uncian</em>do etc. ex<em>ceptio</em>ni etc. speiq<em>ue</em> etc. g<em>enera</em>l<em>ite</em>r etc. quie-<span class=\"line-break\"><br></span>tavit etc. p<em>er</em> pactu<em>m</em> etc. qui sunt proparte tamqua<em>m</em><span class=\"line-break\"><br></span>d<em>icta</em>e Cong<em>regatio</em>nis pro patrocinio facto p<em>er</em> d<em>ictu</em>m D. <a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\">Iosephu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\">m</a></em><span class=\"line-break\"><br></span>tam pro d<em>ict</em>a Academia qua<em>m</em> pro d<em>ict</em>a Cong<em>regatio</em>ne<span class=\"line-break\"><br></span>iux<em>t</em>a forma<em>m</em> decreti Ill. et Ecc.is D <a href=\"https://www.nga.gov/accademia/en/persons/guazzino-guazzini.html\">Guazzini de<span class=\"line-break\"><br></span>Guazzinis</a> Iudicis d<em>icta</em>e Artis Pictoru<em>m</em> sub die<span class=\"line-break\"><br></span>2 presentis mensis sine t<em>ame</em>n p<em>re</em>iuditio alioru<em>m</em><span class=\"line-break\"><br></span>scutoru<em>m</em> Nove<em>m</em> et ba<em>ioccorum</em> 45 debitoru<em>m</em> p<em>ro</em> DD de Academia<span class=\"line-break\"><br></span>et no<em>n</em> alias etc.et h<em>uis</em>m<em>od</em>i quietantia<em>m</em> etc. id<em>em</em> D.<a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\"> Iosephu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-cidoni.html\">m</a></em><span class=\"line-break\"><br></span>promisit esse bona<em>m</em> etc. beneq<em>ue</em> et leg<em>iti</em>me facta<em>m</em> etc.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1#xywh=879,286,263,82",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Academia<em>e </em>(Academy)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/1#xywh=677,1011,289,89",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Exequtori(executor)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2",
+            "type": "Canvas",
+            "height": 2210,
+            "width": 1600,
+            "label": {
+                "none": [
+                    "ASRTNCUff1116090603f213v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/f689d93b78f2d8785881a0f73a0455f7/full/217,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 217
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/f689d93b78f2d8785881a0f73a0455f7/full/1448,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1448,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/f689d93b78f2d8785881a0f73a0455f7",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116090603/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 213v]</p><p>et esse pro o<em>mn</em>i et toto eo quod pretendere potest pro<span class=\"line-break\"><br></span>rata d<em>icta</em>e Congregationis usq<em>ue</em> in presente<em>m</em> die<em>m</em><span class=\"line-break\"><br></span>contraq<em>ue</em> non facere etc. al<em>ia</em>s etc. et sic tactis Iuravit etc.<span class=\"line-break\"><br></span>sup<em>er</em>quibus etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Roma<em>e</em> in <a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">io</a></em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">ne Pinea</a><em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">e</a></em> in Offitio me<em>i</em> etc. p<em>resenti</em>b<em>us</em> etc.<span class=\"line-break\"><br></span>DD <a href=\"https://www.nga.gov/accademia/en/persons/pietro-santi-caballi.html\">Petro Santo Caballo</a> de Tuscolo et<a href=\"https://www.nga.gov/accademia/en/persons/vittorio-giustiniani.html\"> Victorio<span class=\"line-break\"><br></span>Iustiniani</a> de Aqua Sparta testibus etc.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

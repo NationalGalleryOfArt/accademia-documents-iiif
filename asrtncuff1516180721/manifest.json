@@ -1,0 +1,288 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516180721"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 3 Vol. 77 fol. 293r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1618"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Obligation"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Church of Santi Luca e Martina (San Luca and Santa Martina); Rome; Sant'Eustachio (Rione)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Francesco Palica; Giovanni Saccini; Giovanni Antonio Longo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Giovanni Antonio Longo promises to the Accademia dei Pittori e Scultori that he will bring paintings to the church (or pay 25 scudi) for the feast day of Saint Luke, the coming October.    [Italian version]  Giovanni Antonio Longo promette all'Accademia dei pittori e scultori di portare nella chiesa alcuni dipinti (oppure di pagare 25 scudi) in occasione della festa di San Luca, il prossimo ottobre."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Goods",
+                    "Painter",
+                    "Sculptor",
+                    "Cameral obligation",
+                    "Obligation",
+                    "Chapters",
+                    "Academy",
+                    "Painting",
+                    "Feast day",
+                    "Statutes",
+                    "Act"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/587426aa7ea6d2e4a6179e9ef5a74221/full/223,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 223
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1",
+            "type": "Canvas",
+            "height": 2150,
+            "width": 1600,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180721f293r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/587426aa7ea6d2e4a6179e9ef5a74221/full/223,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 223
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/587426aa7ea6d2e4a6179e9ef5a74221/full/1488,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1488,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/587426aa7ea6d2e4a6179e9ef5a74221",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 293r]</p><p>Oblig<em>ati</em>o p<em>ro</em> Acad<em>emi</em>a S<em>ancti</em> Luca<em>e</em><span class=\"line-break\"><br></span>Die 21 Iulii 1618</p><p></p><p>Mag.cus D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-longo.html\">Io Antonius q. Andrea</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-longo.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-longo.html\"> Longhi</a> Romanus Pictor<span class=\"line-break\"><br></span>p<em>er</em> me etc. cognit<em>us</em> sponte etc. o<em>mn</em>ibus etc. promisit etc. Nobili<span class=\"line-break\"><br></span>Academia<em>e</em> Pictor<em>um</em>, et Scultor<em>um</em> <sup>[1]</sup> Urbis In <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Eccl</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">esi</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">a s</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">ti Lu-<span class=\"line-break\"><br></span>ca</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em> absen<em>ti</em> etc. me not<em>ari</em>o etc. eid<em>em</em> tradere, et consigna-<span class=\"line-break\"><br></span>re In d<em>ict</em>a Eccl<em>esi</em>a Quatrum unum depictum, seù<span class=\"line-break\"><br></span>solvere eid<em>em</em> Academia<em>e</em> scuta viginti quinq<em>ue</em><span class=\"line-break\"><br></span>m<em>one</em>ta<em>e</em> hinc ad festivitatem S<em>anc</em>ti Luca<em>e</em> mensis octobris<span class=\"line-break\"><br></span>prox<em>imi</em> hic Roma<em>e</em> libere etc. In o<em>mn</em>ibus, et p<em>er</em> omnia<span class=\"line-break\"><br></span>Iux<em>ta</em> forma<em>m</em>, et continentia<em>m</em> s[ta]tut[o]r<em>um</em> dicta<em>e</em> Aca-<span class=\"line-break\"><br></span>demia<em>e</em>, et Capitulor<em>um</em> In ipsa factor<em>um</em> libere etc.<span class=\"line-break\"><br></span>al<em>ias</em> etc. et<em>iam</em> ad o<em>mn</em>ia damna etc. dequibus etc. quod etc. pro<span class=\"line-break\"><br></span>quibus etc. se etc. bona etc. Iura etc. In forma Camera<em>e</em><span class=\"line-break\"><br></span>Ap<em>osto</em>lica<em>e</em> cu<em>m</em> cl<em>ausul</em>is etc. obligavit etc. citra etc. renuncian<em>s</em> etc.<span class=\"line-break\"><br></span>co<em>n</em>sentien<em>s</em> etc. unica etc. et Ita tactis etc. Iuravit etc. Sup<em>er</em><span class=\"line-break\"><br></span>quibus etc.<span class=\"line-break\"><br></span>Actum Roma<em>e</em> in <a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ion</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">e S</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ti Eustachii</a>, et In off<em>iti</em>o mei etc. p<em>rese</em>nti[b<em>us</em>]<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-palica.html\">Fran.co Palica</a> de S<em>anc</em>to Polo in Sabinis, et <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-saccini.html\">Io[a]n-<span class=\"line-break\"><br></span>ne q. Anastasii Saccini</a> de Sannano t<em>es</em>t<em>ibus</em> etc.<span class=\"line-break\"><br></span>EM rogat'</p><p></p><p>[1]&nbsp;<em>Sic</em>.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1#xywh=1416,386,155,93",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Pictor (painter)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1#xywh=352,580,277,101",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Academia<em>e </em>(academy)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1#xywh=659,883,359,109",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>festivitatem (feast day)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1#xywh=1070,1273,474,95",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>In forma Camera<em>e </em>(Cameral obligation)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180721/canvas/1#xywh=302,1592,213,94",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Actum (act)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

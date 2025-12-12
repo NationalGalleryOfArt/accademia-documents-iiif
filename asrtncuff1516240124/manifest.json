@@ -1,0 +1,284 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516240124"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 1 Vol. 99 fol. 367r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Not specified"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Agostino Ciampelli; Pietro Contini; Antiveduto Gramatica; Camillo Cristofari; Constanza Benedetta Santis (de); Caterina Benedetti Santis (de); Giovanni Francesco Santis (de); Prospero Orsi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Italian"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Agostino Ciampelli, Pietro Contini, and Antiveduto Gramatica order the Sacro Monte di Pietà, where the Congregazione e Accademia di San Luca has a sum on deposit, to pay 82 scudi to Camillo Cristofari. The sum is paid as the price of a house that Cristofari has sold the same day to the Congregazione e Accademia.    [Italian version]  Agostino Ciampelli, Pietro Contini e Antiveduto Gramatica ordinano al Sacro Monte di Pietà di pagare a Camillo Cristofari 82 scudi, prendendoli da quelli che il monte tiene depositati. Gli 82 scudi vengono pagati per il prezzo di una casa che Camillo ha venduto lo stesso giorno alla congregazione."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rector",
+                    "Treasurer",
+                    "Sale",
+                    "Academy",
+                    "House",
+                    "Principe",
+                    "Sacro Monte di Pietà"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/cc75c63444e152562171a726cd5f931f/full/210,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 210
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1",
+            "type": "Canvas",
+            "height": 3791,
+            "width": 2653,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516240124f367r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/cc75c63444e152562171a726cd5f931f/full/210,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 210
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/cc75c63444e152562171a726cd5f931f/full/1400,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1400,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/cc75c63444e152562171a726cd5f931f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 367r]</p><p>Copia<sup>[1]</sup>&nbsp;</p><p></p><p>M<em>ol</em>to. Ill.ri SS.ri Provisori del Sacro Monte della Pieta delli Denari, che ten-<span class=\"line-break\"><br></span>gono a Credito Della n<em>ost</em>ra Cong<em>regatio</em>ne et Academia di San Luca presi<span class=\"line-break\"><br></span>a Censo da <a href=\"https://www.nga.gov/accademia/en/persons/caterina-benedetti-santis-de.html\">Catherina Benedetta Santi</a>, et <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-francesco-santis-de.html\">Gio: Fran.co Santi</a> Coniugi<span class=\"line-break\"><br></span>et <a href=\"https://www.nga.gov/accademia/en/persons/constanza-benedetta-santis-de.html\">Constantia</a> Santi ^per l'atti del Spannocchia^ not<em>ari</em>o Capitolino li 15, et 16 di novembre pross<em>im</em>o pas-<span class=\"line-break\"><br></span>sato piacera alle SS. VV. farne pagare al Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/camillo-cristofari.html\">Camillo Cristofaro</a> me-<span class=\"line-break\"><br></span>dico scudi ottantadoi di m<em>onet</em>a per prezzo di una casa che S<em>ua</em> S<em>igno</em>ria dove-<span class=\"line-break\"><br></span>ra vendere a d<em>ett</em>a n<em>ost</em>ra Cong<em>regatio</em>ne et Academia di San Luca presso la n<em>ost</em>ra<span class=\"line-break\"><br></span>Chiesa come p<em>er</em> Instr<em>ument</em>o da farsi p<em>er</em> l'atti del Spannocchia sude<em>tt</em>o<span class=\"line-break\"><br></span>di Cong<em>regatio</em>ne li 24 di Genn<em>ar</em>o 1624<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/agostino-ciampelli.html\">Agostino Ciampelli</a> Prencipe dell'Accademia<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/prospero-orsi.html\">Prospero Orsi</a> primo Rectore<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pietro-contini.html\">Pietro Contini</a> Secondo rettore<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">Antiveduto della Gramm.ca </a>Camerlengo</p><p></p><p>[1]&nbsp;This document is inserted in document <a href=\"https://www.nga.gov/accademia/en/documents/ASRTNCUff1516240202.html\">1624/02/01</a>. ID:&nbsp;ASRTNCUff1516240202</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1#xywh=1160,123,812,189",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Sacro Monte della Pieta (Sacro Monte di Pietà)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1#xywh=2055,822,190,85",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>casa (house)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1#xywh=1184,1334,384,198",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Prencipe (principe)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1#xywh=1214,1475,351,148",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Rectore (rector)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516240124/canvas/1#xywh=1337,1721,429,259",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Camerlengo (treasurer)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

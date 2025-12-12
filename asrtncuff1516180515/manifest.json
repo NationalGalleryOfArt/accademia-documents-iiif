@@ -1,0 +1,332 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1516180515"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 15 Pt. 2 Vol. 76 fols. 554r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1618"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Quittance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Places"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sant'Eustachio (Rione)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Andrea Lazzari; Giacomo Galli; Giacomo Cucciani; Francesco Matellini; Tommaso Caroselli"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Andrea Lazzari, chaplain of the church of San Luca, receives 15 scudi from Giacomo Galli. The sum is part of a debt of 31 scudi and 25 baiocchi that Galli owes the Accademia di San Luca (according to the notarial act of December 1, 1615). Andrea Lazzari receives the money and makes quittance.    [Italian version]  Andrea Lazzari, cappellano della chiesa di San Luca, ha ricevuto da Giacomo Galli 15 scudi. La somma è parte di un debito di 31 scudi e 25 baiocchi che Galli ha con l'Accademia di San Luca (secondo l'atto del 1 dicembre 1615). Andrea Lazzari riceve il denaro e ne fa quietanza."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Painter",
+                    "Sculptor",
+                    "Work (of art)",
+                    "Notarial act",
+                    "Pact",
+                    "Quittance",
+                    "Debt",
+                    "Chaplain",
+                    "Act",
+                    "Framers and gilders"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/835c9cf97e83bb64d7b28af5a636b4a4/full/216,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 216
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1",
+            "type": "Canvas",
+            "height": 2198,
+            "width": 1582,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180515f554r"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/835c9cf97e83bb64d7b28af5a636b4a4/full/216,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 216
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/835c9cf97e83bb64d7b28af5a636b4a4/full/1439,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1439,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/835c9cf97e83bb64d7b28af5a636b4a4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 554r]</p><p>Quiet<em>anti</em>a<span class=\"line-break\"><br></span>Die 15 Maii 1618</p><p></p><p>R' D.&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/andrea-lazzari.html\">Andreas Lazzarus</a>&nbsp;fil<em>ius</em>&nbsp;q. Equitis Ustilii de&nbsp;<span class=\"line-break\"><br></span>Terra Durantis nullius dio<em>cesi</em>s Cappellanus Ec-&nbsp;<span class=\"line-break\"><br></span>clesie s<em>anc</em>ti Luca<em>e</em>&nbsp;Pictor<em>um</em>, et Scultor<em>um</em><sup>[1]</sup> Urbis p<em>er</em>&nbsp;me etc.&nbsp;<span class=\"line-break\"><br></span>cognit<em>us</em>&nbsp;p<em>ro</em>&nbsp;quibus Pictoribus, et Scultoribus&nbsp;<sup>[2]</sup><span class=\"line-break\"><br></span>nihil<em>ominu</em>s quat<em>enu</em>s opus sit de rato etc. Informa&nbsp;<span class=\"line-break\"><br></span>promisit etc. Ita quod etc. al<em>ia</em>s etc. sponte etc. o<em>mn</em>ibus etc. nunc&nbsp;<span class=\"line-break\"><br></span>In mei etc. ac testiu<em>m</em>&nbsp;etc. manual<em>ite</em>r, et Incontanti&nbsp;<span class=\"line-break\"><br></span>habuit, et recepit etc. à D.&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iacobo Spatarino&nbsp;</a><span class=\"line-break\"><br></span>Indoratore absen<em>te</em>&nbsp;etc. p<em>er</em>&nbsp;manus t<em>ame</em>n D.&nbsp;Iacobi&nbsp;<span class=\"line-break\"><br></span>Cucchiani&nbsp;Rom<em>ani</em>&nbsp;p<em>rese</em>ntis, et solvere declarantis&nbsp;<span class=\"line-break\"><br></span>de p<em>ro</em>p<em>r</em>is pecuniis d<em>ict</em>i&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Spatarini</a>&nbsp;scuta quinde-&nbsp;<span class=\"line-break\"><br></span>cim m<em>one</em>ta<em>e</em>&nbsp;Iul<em>iorum</em>&nbsp;decem p<em>ro</em>&nbsp;scuto ad compotum scut-&nbsp;<span class=\"line-break\"><br></span><em>orum</em>triginta unius [baiocchi] 25 p<em>er</em>&nbsp;d<em>ictu</em>m&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Spatarinu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">m</a></em>&nbsp;d<em>ict</em>a<em>e</em>&nbsp;<span class=\"line-break\"><br></span>Academia<em>e</em>&nbsp;debit<em>a</em>&nbsp;ex Instr<em>ument</em>o p<em>er</em>&nbsp;acta mei etc. Ro-&nbsp;<span class=\"line-break\"><br></span>gat<em>a</em>&nbsp;die p<em>rim</em>a decembris 1615 seu etc. qua<em>e</em>&nbsp;In tot&nbsp;<span class=\"line-break\"><br></span>Iuliis, et testonibus argenteis ad se traxit etc.&nbsp;<span class=\"line-break\"><br></span>de quibus etc. sine preiud<em>ici</em>o residui, et aliar<em>um</em>&nbsp;[...]-&nbsp;<span class=\"line-break\"><br></span>tionu<em>m</em>&nbsp;ad favorem d<em>ict</em>i&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Spadarini</a>&nbsp;In sup<em>radic</em>to&nbsp;<span class=\"line-break\"><br></span>Instr<em>ument</em>o appos<em>u</em>it etc. quietavit etc. et<em>iam</em>&nbsp;p<em>er</em>&nbsp;pactum etc.&nbsp;<span class=\"line-break\"><br></span>et ad cauthela<em>m</em>&nbsp;ex<em>empl</em>i <sup>[3]</sup> etc. speiq<em>ue</em>&nbsp;etc. g<em>enera</em>l<em>iter</em>&nbsp;etc. ren<em>unciavi</em>t etc.&nbsp;<span class=\"line-break\"><br></span>sicq<em>ue</em>&nbsp;tacto pectore etc. Iuravit etc. sup<em>er</em>&nbsp;quibu[s etc.]<sup>[4]</sup><span class=\"line-break\"><br></span>Actu<em>m</em>&nbsp;Roma<em>e</em>&nbsp;in&nbsp;<a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">io</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ne S</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ti Eustachii</a>, et In off<em>iti</em>o&nbsp;<span class=\"line-break\"><br></span>mei etc.</p><p></p><p>[1]&nbsp;<em>Sic</em>.</p><p>[2]&nbsp;<em>Sic.</em></p><p>[3]&nbsp;Uncertain.</p><p>[4]&nbsp;Brackets at end of lines denote illegible passages due to words cut off at margins.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1#xywh=1122,424,315,91",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Cappellanus (chaplain)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1#xywh=326,948,372,144",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Indoratore (gilder)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/1#xywh=1182,1663,248,90",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>pactum (pact)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2",
+            "type": "Canvas",
+            "height": 2252,
+            "width": 1546,
+            "label": {
+                "none": [
+                    "ASRTNCUff1516180515f554v"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/bec0d5e0220ea5ac72f1cc0c4bfe535b/full/206,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 206
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/bec0d5e0220ea5ac72f1cc0c4bfe535b/full/1373,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1373,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/bec0d5e0220ea5ac72f1cc0c4bfe535b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180515/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 554v]</p><p>mei etc. p<em>rese</em>ntibus etc.&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/francesco-matellini.html\">Francisco q. Dom</a><em><a href=\"https://www.nga.gov/accademia/en/persons/francesco-matellini.html\">ini</a></em><a href=\"https://www.nga.gov/accademia/en/persons/francesco-matellini.html\">ci Mattellini&nbsp;</a><span class=\"line-break\"><br></span>Rom<em>ano</em>&nbsp;et&nbsp;<a href=\"https://www.nga.gov/accademia/en/persons/tommaso-caroselli.html\">Thoma q. Laurentii Caroselli</a>&nbsp;Ne-&nbsp;<span class=\"line-break\"><br></span>pesino t<em>es</em>t<em>ibus</em>&nbsp;etc.&nbsp;<span class=\"line-break\"><br></span>E M rogat<em>us</em></p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054216210524c"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 542 fols. 610r-v"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1621"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Erasto Spannocchia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Polidoro Mariottini; Leonardo Santi (de)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  The Accademia di San Luca, represented by its camerario [treasurer] Polidoro Mariottini, petitions the civil court of the senator of Rome against Agostino Avanzi, Francesco Picchiere, and Leonardo de Sanctis in order for them to take the iuramentum de calumnia [oath of slander] regarding their denial recorded in the records according to the statutory form. Unlike Picchiere, Sanctis takes the oath. Avanzi asks for an exemption because he does not practice the profession of painter. The judge issues an executive order.    [Italian version]  Dinanzi al tribunale civile del senatore di Roma, sono citati – per la causa che li vede contrapposti all’Accademia di San Luca, rappresentata dal proprio Camerario Polidoro Mariottini – Agostino de Avanzi, Francesco Picchiere e Leonardo de Sanctis, affinché prestino iuramentum de calumnia [giuramento di calunnia] in merito ad una loro negazione presente negli atti, nella forma prevista dagli statuti. Leonardo de Sanctis giura, a differenza di Francesco Picchiere. Agostino de Avanzi chiede di essere esentato in quanto non esercita la professione di pittore. Nei confronti di questi ultimi viene rilasciato mandato esecutivo."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Executive mandate",
+                    "Oath of slander"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/8a76555526f4ceea5d2a8aae2ec70848/full/210,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 210
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1",
+            "type": "Canvas",
+            "height": 3378,
+            "width": 2363,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol542_1621_fol610R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/8a76555526f4ceea5d2a8aae2ec70848/full/210,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 210
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/8a76555526f4ceea5d2a8aae2ec70848/full/1399,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1399,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/8a76555526f4ceea5d2a8aae2ec70848",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 610r]</p><p>ex <em>adver</em>so Id<em>em</em> <em>citr</em>a etc. copia missa protestat<em>io</em>ne nullis actoru<em>m</em> et agen<em>dum</em>, et quod<span class=\"line-break\"><br></span>nemo ex<em>emp</em>lo comparens audiatur nisi docto de leg<em>iti</em>mo m<em>anda</em>to ita<span class=\"line-break\"><br></span>quod etc. d<em>ixi</em>t nihil fieri nisi ser<em>vatis</em> ser<em>vandis</em> ver<em>ificatis</em> ver<em>ificandis</em> alias etc. o<em>mn</em>i etc.<sup>[1]</sup></p><p></p><p>Pro ead<em>em </em>con<em>tra</em> DD. Augustinu<em>m</em> de Avantiis Fran.cu<em>m</em> Piccheriu<em>m</em>, Le-<span class=\"line-break\"><br></span>onardu<em>m</em> de Sanctis ex <em>adverso principa</em>les. Gaspar mand<em>atarius retulit in scrip</em>tis se heri d<em>omi</em> d<em>imissa</em> cop<em>ia</em><span class=\"line-break\"><br></span>eosd<em>em</em> citasse ad Iuran<em>dum</em> de cal<em>umni</em>a sup<em>er</em> ass<em>er</em>ta neg<em>atio</em>ne in actis<span class=\"line-break\"><br></span>facta al<em>ia</em>s viden<em>dum</em> con<em>tra</em> ipsos d<em>ecer</em>ni et rel<em>axa</em>ri m<em>andatu</em>m ex<em>equtivu</em>m<span class=\"line-break\"><br></span>quibuscu<em>m</em>q<em>ue </em>non obstan<em>tibus</em> ad p<em>rimam</em> d<em>iem</em>. R<em>elatione</em> <em>facta comparu</em>it D. Polidorus Ma-<span class=\"line-break\"><br></span>riottinus Cam<em>erar</em>ius et p<em>eti</em>it ut s<em>upr</em>a o<em>mn</em>i etc.<span class=\"line-break\"><br></span>ex <em>adver</em>so d<em>ictu</em>s Leonardus et monitus etc. med<em>io</em> <em>iuramento tac</em>tis etc. iuravit de cal<em>umni</em>a<span class=\"line-break\"><br></span>sup<em>er </em>tota causa iuxta forma<em>m</em> statut<em>orum</em> et ref<em>ormatio</em>nis<span class=\"line-break\"><br></span>S.mi in forma o<em>mn</em>i etc.<span class=\"line-break\"><br></span>ex <em>advers</em>o d<em>ictu</em>s Aug.nus et in termino p<em>raeten</em>sae Cit<em>atio</em>nis ad Iuran<em>dum</em> de<span class=\"line-break\"><br></span>cal<em>umni</em>a sup<em>er</em> asserta neg<em>atio</em>ne d<em>ixi</em>t ipsu<em>m</em> non teneri nisi<span class=\"line-break\"><br></span>iuxta forma<em>m</em> statut<em>orum</em> sup<em>er </em>tota causa, in qua ipse<span class=\"line-break\"><br></span>comparens fovent<em>es</em> bonu<em>m</em> ius cu<em>m</em> non exerceat arte<em>m</em><span class=\"line-break\"><br></span>quae cumprehendatur sub asserta soc<em>ietat</em>e pictoru<em>m</em> et<span class=\"line-break\"><br></span>p<em>ro</em>p<em>ri</em>a prot<em>estav</em>it nihil fieri nisi ser<em>vatis</em> ser<em>vandis</em> ver<em>ificatis</em> ver<em>ificandis</em> et<span class=\"line-break\"><br></span>in o<em>mn</em>em eve<em>n</em>tu<em>m</em> etc. nisi prius iurato de cal<em>umni</em>a etc. p<em>rae</em>d<em>ict</em>os Ad<em>versari</em>os met<span class=\"line-break\"><br></span>in plena cong<em>regatio</em>ne al<em>ia</em>s etc. o<em>mn</em>i etc.</p><p></p><p>[1] Refers to document ID:&nbsp;ASRTCSVol054216210524 and formerly&nbsp;ASRTCSVol054216210524b</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1#xywh=1864,1186,310,134",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>m<em>andatu</em>m ex<em>equtivu</em>m (executive mandate)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/1#xywh=1072,1021,484,157",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Iuran<em>dum</em> de cal<em>umni</em>a (oath of slander)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2",
+            "type": "Canvas",
+            "height": 3395,
+            "width": 2363,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol542_1621_fol610V"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/d1243528d2c6ecbda6f41ad60e256e36/full/209,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 209
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/d1243528d2c6ecbda6f41ad60e256e36/full/1392,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1392,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/d1243528d2c6ecbda6f41ad60e256e36",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054216210524c/canvas/2",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 610v]</p><p>Qui Ill. et Ex.s D. Iudex et C<em>uriae</em> C<em>apitolii</em> P<em>rimu</em>s Coll<em>ateral</em>is S<em>edens</em> etc. V<em>isis</em> etc. A<em>uditis</em> etc. con<em>tra </em>Fran.cu<em>m</em><span class=\"line-break\"><br></span>d<em>ecrev</em>it et rel<em>axav</em>it m<em>andatu</em>m nisi ad p<em>rimam</em> d<em>iem</em> <em>cum intimatio</em>ne et con<em>tra</em> Aug.nu<em>m </em>d<em>ecrev</em>it et rel<em>axav</em>it<span class=\"line-break\"><br></span>m<em>andatu</em>m ex<em>equtivu</em>m nisi ad p<em>rimam</em> d<em>iem</em> <em>cum intimatio</em>ne Iurato de cal<em>umni</em>a et Int<em>imat</em>o p<em>ro</em> d<em>ictu</em>m<span class=\"line-break\"><br></span>Camerariu<em>m</em>.</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

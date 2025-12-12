@@ -1,0 +1,222 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTCSVol054916321026"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vol. 549 fol. 955r"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1632"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tommaso Salvatore"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Audientia (court hearing)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ercole Bertolucci"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  The Accademia di San Luca petitions the civil court of the senator of Rome against Ercole Bertolucci. The judge issues a subpoena for the defendant to appear in court for his deposition.    [Italian version]  L’Accademia di San Luca ricorre presso il tribunale civile del senatore di Roma contro Ercole Bertolucci. Il giudice rilascia un mandato di comparizione in all’aula dell’accusato per una sua deposizione."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Subpoena"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/4c64f074ea02411dd259b14d30306084/full/211,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 211
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1",
+            "type": "Canvas",
+            "height": 3346,
+            "width": 2354,
+            "label": {
+                "none": [
+                    "ASR_TCS_vol549_1632_f955R"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/4c64f074ea02411dd259b14d30306084/full/211,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 211
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/4c64f074ea02411dd259b14d30306084/full/1407,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1407,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/4c64f074ea02411dd259b14d30306084",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 955r]</p><p>Die martis 26 ottobris 1632<span class=\"line-break\"><br></span>Audientia<span class=\"line-break\"><br></span>quare etc.<span class=\"line-break\"><br></span>Pro ven. Accademia Pictor<em>um</em> et Scultor<em>um</em> Urbis p<em>rincipa</em>l<em>i </em>con<em>tra</em> D.<span class=\"line-break\"><br></span>Hercule<em>m</em> Bartolutium ex <em>advers</em>o p<em>rincipa</em>l<em>em</em>. Rocchus mand<em>atarius</em> <em>retulit in scrip</em>tis<span class=\"line-break\"><br></span>se die 25 huius d<em>omi </em>d<em>imissa</em> c<em>opia</em> eid<em>em</em> Intim<em>ass</em>e q<em>ua</em>l<em>iter </em>D. m<em>andavi</em>t expediri<span class=\"line-break\"><br></span>mandat<em>um </em>ad eff<em>ec</em>tum deponendi quibuscu<em>m</em>q<em>ue</em> n<em>on</em> ob<em>sta</em>n<em>tibus</em> et alias<span class=\"line-break\"><br></span>prout in actis In<em>stantis</em> eod<em>em</em> p<em>rincipa</em>l<em>i</em> s<em>ive</em> etc.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054916321026/canvas/1#xywh=296,1177,421,202",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Accademia (academy)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

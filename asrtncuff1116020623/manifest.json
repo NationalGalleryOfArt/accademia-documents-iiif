@@ -1,0 +1,250 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "ASRTNCUff1116020623"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Archive"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Archivio di Stato di Roma (ASR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Volume"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uff. 11 Vol. 54 Folio r illegible"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1602"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Collection"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Trenta Notai Capitolini (TNC)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Notary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ottaviano Saravezzi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Document type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Quittance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Associated name"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Antonio Bonacuolo; Rutilio Razzolo; Giovanni Ciambella Sezzi; Cleante Benignio Narni (de)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Language of document"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Latin"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Summary"
+                ]
+            },
+            "value": {
+                "none": [
+                    "[English version]  Antonio Bonacuolo received from the Collegio dei Pittori 7½ scudi as interest from an annuity (censo). Bonacuolo thus gives quittance to the treasurer of the Collegio, Rutilio Razzolo.    [Italian version]  Antonio Bonacuolo ha ricevuto dal collegio dei pittori 7 scudi e ½, che sono i frutti di un censo. Antonio fa dunque quietanza al camerario del collegio, Rutilio Razzolo."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Key terms"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Procurator",
+                    "Mason",
+                    "Pact",
+                    "Quittance",
+                    "Treasurer",
+                    "Interest",
+                    "Annuity"
+                ]
+            }
+        }
+    ],
+    "rights": "Archivio di Stato di Roma (ASR)",
+    "thumbnail": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/3add8787eba6f02a49b9bdb41a525b94/full/240,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 240
+        }
+    ],
+    "items": [
+        {
+            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1",
+            "type": "Canvas",
+            "height": 2198,
+            "width": 1756,
+            "label": {
+                "none": [
+                    "ASRTNCUff1116020623frillegible"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/3add8787eba6f02a49b9bdb41a525b94/full/240,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 240
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1",
+                            "body": {
+                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/3add8787eba6f02a49b9bdb41a525b94/full/1598,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1598,
+                                "service": [
+                                    {
+                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/3add8787eba6f02a49b9bdb41a525b94",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>[fol. 853r]</p><p>Quietantia<span class=\"line-break\"><br></span>Die 23 Iunii 1602</p><p></p><p>Pro Colleg<em>i</em>o DD Pictoru<em>m</em><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/antonio-bonacuolo.html\">Antonius Bonacuolus</a> Mediolanensis Cavallaru[s][...] <sup>[1]</sup><span class=\"line-break\"><br></span>Maria<em>m</em> Montiu<em>m</em> procuratorio nomine Mag<em>.c</em> i A[…]<span class=\"line-break\"><br></span>Pino Muratoris in Zagarola pro quol<em>ibe</em>t promisit [...]<span class=\"line-break\"><br></span>al<em>ia</em>s etc. ita quod etc. spont<em>e</em> etc. ac omni mel<em>iori</em> modo etc. d<em>ic</em>to [...]<span class=\"line-break\"><br></span>quietavit etc. Ven<em>erabi</em>le<em>m</em> Collegiu<em>m</em> Pictoru<em>m</em> Urbis D.<a href=\"https://www.nga.gov/accademia/en/persons/rutilio-razzolo.html\"> Rutilio [...]<span class=\"line-break\"><br></span>Razzolo</a> d<em>ict</em>i Collegii Camerario presente<em>m</em> etc. de scutis sept[em]<span class=\"line-break\"><br></span>et ba<em>iocchis</em> 50 que esse asseruerunt pro fructib<em>us</em> triu<em>m</em> semestrium<span class=\"line-break\"><br></span>unius annui Census scutorum . . . ad favore<em>m</em> d<em>ict</em>i [...] Andr[…]<span class=\"line-break\"><br></span>p<em>ro</em> d<em>ictu</em>m Collegiu<em>m</em> impositi que scuta 7 et ba<em>ioccos</em> 50 id<em>em</em> D. Anton[ius]<span class=\"line-break\"><br></span>nunc in mei etc. habuit et recepit a p<em>redic</em>to D Rutilio p<em>res</em>ent[e]<span class=\"line-break\"><br></span>et exborsanti que ad se traxit etc. de quib<em>us</em> etc. quietavit etc. p<em>er</em><span class=\"line-break\"><br></span>pactu<em>m</em> etc. et hanc quietantia<em>m</em> etc. promisit esse bona<em>m</em> etc.<span class=\"line-break\"><br></span>al<em>ia</em>s etc. et sic tactis Iuravit etc. sup<em>er</em> quib<em>us</em> etc. Actu<em>m</em> Rom<em>a</em>e<span class=\"line-break\"><br></span>in Off<em>ici</em>o mei etc. presentib<em>us</em> D. D. <a href=\"https://www.nga.gov/accademia/en/persons/cleante-benignio-narni-de.html\">Cleante Benignio de<span class=\"line-break\"><br></span>Narni</a> et Io<em>'</em>e<a href=\"https://www.nga.gov/accademia/en/persons/giovanni-ciambella-sezzi.html\"> Ciambella de Sezzo</a> Testib<em>us</em> etc.<span class=\"line-break\"><br></span>O Sar<em>avezziu</em>s</p><p></p><p>[1]&nbsp;Entire page cut off at right margin, as indicated by ellipses in brackets.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1#xywh=536,524,236,89",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Muratoris (mason)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1#xywh=822,943,151,93",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Census (annuity)</p>"
+                            }
+                        },
+                        {
+                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116020623/canvas/1#xywh=834,1298,277,93",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>quietantia<em>m </em>(quittance)</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

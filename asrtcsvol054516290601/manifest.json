@@ -274,7 +274,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290601/canvas/2/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290601/canvas/2#xywh=1583,838,773,171",
                             "body": {
                                 "type": "TextualBody",
@@ -285,7 +285,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290601/canvas/2/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290601/canvas/2#xywh=656,1558,563,212",
                             "body": {
                                 "type": "TextualBody",

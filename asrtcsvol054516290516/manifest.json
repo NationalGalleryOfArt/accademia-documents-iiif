@@ -206,7 +206,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290516/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290516/canvas/1#xywh=1278,2938,507,146",
                             "body": {
                                 "type": "TextualBody",

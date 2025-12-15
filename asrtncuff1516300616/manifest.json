@@ -226,7 +226,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/1#xywh=857,554,265,153",
                             "body": {
                                 "type": "TextualBody",
@@ -237,7 +237,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/1#xywh=748,663,259,108",
                             "body": {
                                 "type": "TextualBody",
@@ -248,7 +248,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/1#xywh=858,928,384,182",
                             "body": {
                                 "type": "TextualBody",
@@ -393,7 +393,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/3/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/3#xywh=769,259,213,125",
                             "body": {
                                 "type": "TextualBody",
@@ -404,7 +404,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/3/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/3#xywh=853,622,278,154",
                             "body": {
                                 "type": "TextualBody",
@@ -415,7 +415,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/3/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/3#xywh=370,1942,261,118",
                             "body": {
                                 "type": "TextualBody",
@@ -493,7 +493,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/4/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516300616/canvas/4#xywh=1316,85,243,105",
                             "body": {
                                 "type": "TextualBody",

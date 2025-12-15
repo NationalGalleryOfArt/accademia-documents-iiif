@@ -233,7 +233,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/1#xywh=671,1084,266,114",
                             "body": {
                                 "type": "TextualBody",
@@ -311,7 +311,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/2/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/2#xywh=1350,266,235,109",
                             "body": {
                                 "type": "TextualBody",
@@ -322,7 +322,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/2/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/2#xywh=1506,586,124,85",
                             "body": {
                                 "type": "TextualBody",
@@ -333,7 +333,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/2/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/2#xywh=772,1334,210,89",
                             "body": {
                                 "type": "TextualBody",
@@ -411,7 +411,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/3/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/3#xywh=1314,514,268,80",
                             "body": {
                                 "type": "TextualBody",
@@ -489,7 +489,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/4/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/4#xywh=411,1067,171,108",
                             "body": {
                                 "type": "TextualBody",
@@ -500,7 +500,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/4/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/4#xywh=1409,1281,217,105",
                             "body": {
                                 "type": "TextualBody",
@@ -578,7 +578,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/5/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/5#xywh=428,562,367,165",
                             "body": {
                                 "type": "TextualBody",
@@ -656,7 +656,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/6/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/6#xywh=1081,1110,147,92",
                             "body": {
                                 "type": "TextualBody",
@@ -801,7 +801,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8#xywh=761,130,201,116",
                             "body": {
                                 "type": "TextualBody",
@@ -812,7 +812,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8#xywh=463,1216,258,100",
                             "body": {
                                 "type": "TextualBody",
@@ -823,7 +823,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8#xywh=701,1142,120,85",
                             "body": {
                                 "type": "TextualBody",
@@ -834,7 +834,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8/annopage-2/anno-5",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516250629/canvas/8#xywh=1307,1563,113,96",
                             "body": {
                                 "type": "TextualBody",

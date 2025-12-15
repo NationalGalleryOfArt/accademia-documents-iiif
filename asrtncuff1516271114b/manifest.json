@@ -223,7 +223,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/1/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/1#xywh=372,301,456,139",
                             "body": {
                                 "type": "TextualBody",
@@ -234,7 +234,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/1/annopage-2/anno-3",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/1#xywh=688,621,227,105",
                             "body": {
                                 "type": "TextualBody",
@@ -245,7 +245,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/1/annopage-2/anno-4",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/1#xywh=777,714,151,82",
                             "body": {
                                 "type": "TextualBody",
@@ -323,7 +323,7 @@
                         {
                             "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/2/annopage-2/anno-2",
                             "type": "Annotation",
-                            "motivation": "commenting",
+                            "motivation": "tagging",
                             "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516271114b/canvas/2#xywh=1395,1158,329,158",
                             "body": {
                                 "type": "TextualBody",

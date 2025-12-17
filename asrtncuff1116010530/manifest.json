@@ -1,291 +1,291 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1116010530"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 11 Vol. 50 Folio 664r"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1601"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Ottaviano Saravezzi"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Obligation"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Pigna (Rione); Roman Forum (Campo Vaccino)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Ippolito Aldobrandini (Pope Clement VIII); Paolo Parco; Pietro Contini; Simone Carretta; Camillo Spallucci; Francesco Luciano; Giovanni Pietro Paolo Piccioni"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Latin"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  Simone Carretta pledges to pay 2 scudi and 36 baiocchi to Giovanni Pietro Paolo Piccioni, procurator of the Società di San Luca. Carretta owes this sum for the appraisal of the work he executed for the pope's coppiere.    [Italian version]  Simone Carretta promette a Giovanni Pietro Paolo Piccioni, procuratore della società di San Luca, di pagare 2 scudi e 36 baiocchi. Simone deve tale somma a causa della stima di alcuni lavori che egli ha fatto per il coppiere del papa."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Goods",
-                    "Painter",
-                    "Procurator",
-                    "Heir",
-                    "Cameral obligation",
-                    "Society",
-                    "Payment",
-                    "Work (labor)",
-                    "Obligation",
-                    "Appraisal",
-                    "Apostolic Camera",
-                    "Appraiser",
-                    "Pope",
-                    "Expert"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59/full/232,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 232
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1",
-            "type": "Canvas",
-            "height": 2150,
-            "width": 1660,
-            "label": {
-                "none": [
-                    "ASRTNCUff1116010530f664r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59/full/232,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 232
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59/full/1544,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1544,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 664r]</p><p>Obligatio ad favore<em>m</em><span class=\"line-break\"><br></span>S<em>anc</em>ti Luc<em>a</em>e Pictor<em>um</em><span class=\"line-break\"><br></span>Die 30 Mensis Maii 1601 Ind<em>itio</em>ne xiiii</p><p></p><p><a href=\"https://www.nga.gov/accademia/en/persons/ippolito_aldobrandini.html\">Pontificatus Clementis viii</a> Anno X<span class=\"line-break\"><br></span>In mei etc. personaliter constututus D. <a href=\"https://www.nga.gov/accademia/en/persons/simone-carretta.html\">Simon </a>fil<em>ius</em> Nicolai<span class=\"line-break\"><br></span>Carretti Luccan<em>us</em> Pictor in Urbe ad S. Ambrosiu<em>m</em><span class=\"line-break\"><br></span>sponte etc. ac omni meliori modo etc. promisit etc.<span class=\"line-break\"><br></span>Ven<em>erabili</em> Societati S. Luc<em>a</em>e Pictor<em>um</em> de Urbe in <a href=\"https://www.nga.gov/accademia/en/places/roman-forum.html\">foro<span class=\"line-break\"><br></span>Boario</a> et Mag.co D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-pietro-paolo-piccioni.html\">Ioanne Paulo Piccioli</a> eius<span class=\"line-break\"><br></span>pro<em>cura</em>t<em>or</em>i pro ea p<em>rese</em>nti etc. solvere et exborsare scuta<span class=\"line-break\"><br></span>duo et b<em>aioccos</em>&nbsp;<sup>[1]</sup> triginta sex que sunt ut asseruit<span class=\"line-break\"><br></span>pro mercede unius extimationis fact<em>ae</em> ad<span class=\"line-break\"><br></span>eius favore<em>m</em> a DD. <a href=\"https://www.nga.gov/accademia/en/persons/pietro-contini.html\">Petro Contino</a> et <a href=\"https://www.nga.gov/accademia/en/persons/camillo-spallucci.html\">Camillo<span class=\"line-break\"><br></span>Spallucci</a> d<em>icta</em>e societatis Peritis extimatoribus<span class=\"line-break\"><br></span>laborerii fact<em>i</em> per ipsu<em>m</em> D <a href=\"https://www.nga.gov/accademia/en/persons/simone-carretta.html\">Simone</a><em><a href=\"https://www.nga.gov/accademia/en/persons/simone-carretta.html\">m&nbsp;</a></em><a href=\"https://www.nga.gov/accademia/en/persons/simone-carretta.html\"> </a>Coppierio<span class=\"line-break\"><br></span>S<em>anctissi</em>mi D. N. Pap<em>a</em>e hinc ad quatuor dies proximos<span class=\"line-break\"><br></span>ab hodie alias etc. Pro quibus etc. obligavit etc. se etc.<span class=\"line-break\"><br></span>heredes etc. ac bona etc. in ampliori forma Camer<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e cu<em>m</em> clasulis etc. citra etc. renunciando etc. Con-<span class=\"line-break\"><br></span>sentiens etc. et ita tactis etc. Iuravit etc. super quibus etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Rom<em>a</em>e in officio mei etc. in <a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">ion</a></em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">e Pinea</a> p<em>rese</em>ntibus etc. DD.<a href=\"https://www.nga.gov/accademia/en/persons/paolo-parco.html\"> Paulo<span class=\"line-break\"><br></span>Parchi</a> de Iovio et<a href=\"https://www.nga.gov/accademia/en/persons/francesco-luciano.html\"> Francisco Lucciano</a> firmano t<em>es</em>t etc.<span class=\"line-break\"><br></span>O Sar<em>avezziu</em>s</p><p></p><p>[1]&nbsp;Uncertain.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=718,521,185,75",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Pictor (painter)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=600,1362,205,110",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Pap<em>a</em>e (pope)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=418,1526,218,102",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>heredes (heir)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-5",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=401,1304,258,120",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>laborerii (job)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-6",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=1334,1492,285,141",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Camer<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e (Apostolic Camera)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1116010530"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 11 Vol. 50 Folio 664r"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1601"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ottaviano Saravezzi"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Obligation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pigna (Rione); Roman Forum (Campo Vaccino)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ippolito Aldobrandini (Pope Clement VIII); Paolo Parco; Pietro Contini; Simone Carretta; Camillo Spallucci; Francesco Luciano; Giovanni Pietro Paolo Piccioni"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Latin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  Simone Carretta pledges to pay 2 scudi and 36 baiocchi to Giovanni Pietro Paolo Piccioni, procurator of the Società di San Luca. Carretta owes this sum for the appraisal of the work he executed for the pope's coppiere.    [Italian version]  Simone Carretta promette a Giovanni Pietro Paolo Piccioni, procuratore della società di San Luca, di pagare 2 scudi e 36 baiocchi. Simone deve tale somma a causa della stima di alcuni lavori che egli ha fatto per il coppiere del papa."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Goods",
+          "Painter",
+          "Procurator",
+          "Heir",
+          "Cameral obligation",
+          "Society",
+          "Payment",
+          "Work (labor)",
+          "Obligation",
+          "Appraisal",
+          "Apostolic Camera",
+          "Appraiser",
+          "Pope",
+          "Expert"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59/full/232,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 232
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1",
+      "type": "Canvas",
+      "height": 2150,
+      "width": 1660,
+      "label": {
+        "none": [
+          "ASRTNCUff1116010530f664r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59/full/232,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 232
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59/full/1544,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1544,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/30010509d28e4fb4f0dfe1996c24ac59",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 664r]</p><p>Obligatio ad favore<em>m</em><span class=\"line-break\"><br></span>S<em>anc</em>ti Luc<em>a</em>e Pictor<em>um</em><span class=\"line-break\"><br></span>Die 30 Mensis Maii 1601 Ind<em>itio</em>ne xiiii</p><p></p><p>Pontificatus Clementis viii Anno X<span class=\"line-break\"><br></span>In mei etc. personaliter constututus D. Simon fil<em>ius</em> Nicolai<span class=\"line-break\"><br></span>Carretti Luccan<em>us</em> Pictor in Urbe ad S. Ambrosiu<em>m</em><span class=\"line-break\"><br></span>sponte etc. ac omni meliori modo etc. promisit etc.<span class=\"line-break\"><br></span>Ven<em>erabili</em> Societati S. Luc<em>a</em>e Pictor<em>um</em> de Urbe in foro<span class=\"line-break\"><br></span>Boario et Mag.co D. Ioanne Paulo Piccioli eius<span class=\"line-break\"><br></span>pro<em>cura</em>t<em>or</em>i pro ea p<em>rese</em>nti etc. solvere et exborsare scuta<span class=\"line-break\"><br></span>duo et b<em>aioccos</em>&nbsp;<sup>[1]</sup> triginta sex que sunt ut asseruit<span class=\"line-break\"><br></span>pro mercede unius extimationis fact<em>ae</em> ad<span class=\"line-break\"><br></span>eius favore<em>m</em> a DD. Petro Contino et Camillo<span class=\"line-break\"><br></span>Spallucci d<em>icta</em>e societatis Peritis extimatoribus<span class=\"line-break\"><br></span>laborerii fact<em>i</em> per ipsu<em>m</em> D Simone<em>m&nbsp;</em> Coppierio<span class=\"line-break\"><br></span>S<em>anctissi</em>mi D. N. Pap<em>a</em>e hinc ad quatuor dies proximos<span class=\"line-break\"><br></span>ab hodie alias etc. Pro quibus etc. obligavit etc. se etc.<span class=\"line-break\"><br></span>heredes etc. ac bona etc. in ampliori forma Camer<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e cu<em>m</em> clasulis etc. citra etc. renunciando etc. Con-<span class=\"line-break\"><br></span>sentiens etc. et ita tactis etc. Iuravit etc. super quibus etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Rom<em>a</em>e in officio mei etc. in Reg<em>ion</em>e Pinea p<em>rese</em>ntibus etc. DD. Paulo<span class=\"line-break\"><br></span>Parchi de Iovio et Francisco Lucciano firmano t<em>es</em>t etc.<span class=\"line-break\"><br></span>O Sar<em>avezziu</em>s</p><p></p><p>[1]&nbsp;Uncertain.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=718,521,185,75",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Pictor (painter)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=600,1362,205,110",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Pap<em>a</em>e (pope)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=418,1526,218,102",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>heredes (heir)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=401,1304,258,120",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>laborerii (job)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1/annopage-2/anno-6",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1116010530/canvas/1#xywh=1334,1492,285,141",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Camer<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e (Apostolic Camera)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

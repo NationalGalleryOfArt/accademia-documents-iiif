@@ -1,328 +1,328 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1516260629"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 15 Pt. 2 Vol. 108 fols. 896r-v"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1626"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Lorenzo Tigrino"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Meeting"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Rome; Sant'Eustachio (Rione); Crescenzi Palace"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Agostino Ciampelli; Alessandro Bottoni; Alessandro Locatelli; Andrea Lilio; Angelo Ceccarelli; Annibale Durante; Antonio Caroccio; Antonio Gallicano; Antonio Circignani; Ascanio Barigioni; Astolfo Petrazzi; Bonetto Bonetti; Charles Mellin; Cesare Rossetti; Claude Mellan; Desiderio Gennini; Domenico Silvestri; Fiorino Garnini; Giovanni Francesco Uberti (d'); Francesco Pacini; Francesco Grigiotti; Francesco Rossi (de); Gaspare Ferrari (de); Giovanni Antonio Longo; Giovanni Baglione; Giovanni Battista Lorenzo Alberti; Giovanni Battista Pianello; Jean Lhomme; Giorgio Bossarte; Giuseppe Fidele; Giuseppe Franchi; Geronimo Canetti; Girolamo Massei; Gismondo Traccia; Guidobaldo Abbatini; Orazio Riminaldi; Giacomo Crescenzi; Giacomo Galli; Simon Vouet; Lattanzio Nicoli; Leonardo Santi (de); Antonio Tempesta; Ottavio Mario Leoni; Lorenzo Testa; Lorenzo Bartolomeo Ciarpi; Marcello Provenzale; Marcantonio Aliprandi; Marco Tullio Montagna; Matteo Erena (da); Michelangelo Guidi; Michele Castello (da); Minuzio Minucci; Noè Marchetti; Nicola Garambolo; Nicolas La Fage (de); Ottavio Carosi; Paolo Bardi; Paul Bril; Pietro Andronico; Pietro Ferrerio; Pietro Reno; Prospero Greco; Prospero Orsi; Riccardo Messonetti; Santo Avanzini; Silvio Capio; Simone Aprosio; Trophime Bigot; Tommaso Campana; Vincenzo Sabbato; Francesco Verretti; Jacques Stella"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Italian"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  The document contains only the list of participants.    [Italian version]  Il documento si limita all'elenco dei partecipanti."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Painter",
-                    "Sculptor",
-                    "Meeting",
-                    "Principe",
-                    "Advisor",
-                    "Embroiderer"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606/full/232,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 232
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1",
-            "type": "Canvas",
-            "height": 2192,
-            "width": 1696,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516260629f896r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606/full/232,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 232
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606/full/1547,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1547,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 896r]</p><p>Cong<em>regati</em>o Pittor<em>um</em> etc.<span class=\"line-break\"><br></span>Die 29 Iunii 1626</p><p></p><p>Fu fatta Congregatione delli Sig.ri Pittori, et Scultori di <a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a><span class=\"line-break\"><br></span>della Cong<em>regation</em>e di San Luca nella Sala del Palazzo<span class=\"line-break\"><br></span>dell'Ill.mo Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-crescenzi.html\">Iacomo Abbate Crescentio</a> nel <a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">Rione<span class=\"line-break\"><br></span>di S. Eustacchio</a> dove intervennero tutti l'In-<span class=\"line-break\"><br></span>frascritti cioè<span class=\"line-break\"><br></span>L'Ill'Sig.r <a href=\"https://www.nga.gov/accademia/en/persons/simon-vouet.html\">Simone Vuetti</a> Prencipe<span class=\"line-break\"><br></span>Li Sig.ri Cav.re <a href=\"https://www.nga.gov/accademia/en/persons/ottavio-mario-leoni.html\">Ottavio Leoni</a> et<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-baglione.html\">Gio: Baglioni</a><span class=\"line-break\"><br></span>Li Sig.ri <a href=\"https://www.nga.gov/accademia/en/persons/antonio-tempesta.html\">Antonio Tempesta</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/marcello-provenzale.html\">Marcello Proventiali</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/cristoforo-roncalli.html\">Antonio Pomaranci</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/agostino-ciampelli.html\">Agostino Ciampelli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/paul-bril.html\">Paolo Brilli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-bartolomeo-ciarpi.html\">Baccio Ciarpi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/andrea-lilio.html\">Andrea Lilii</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/cesare-rossetti.html\">Cesare Rossetti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-massei.html\">Gironimo Massei</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-franchi.html\">Gioseppe Francho</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/michele-castello-da.html\">Michele Castelli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/nicolas-la-fage-de.html\">Nicolo La faggia </a>Consegliere<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-grigiotti.html\">Francesco Griggiotti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/orazio-riminaldi.html\">H[o]ratio Riminaldi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/prospero-orsi.html\">Prospero Orsi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/astolfo-petrazzi.html\">Astolfo Petrazzi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/claude_mellan.html\">Claudio Mellano</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/gaspare-ferrari-de.html\">Gaspare Ferraro</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/alessandro-bottoni.html\">Alessandro Bottoni</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-antonio-longo.html\">Gio: Antonio Longhi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/bonetto-bonetti.html\">Bonetto Bonetti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/marcantonio-aliprandi.html\">Marco Antonio Librandi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/noe-marchetti.html\">N[o]è Marchetti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/lattanzio-nicoli.html\">Lattantio Nicoli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iacomo Galli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/antonio-caroccio.html\">Antonio Caroccio</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/paolo-bardi.html\">Paolo [Ba]rdi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/domenico-silvestri.html\">Domenico Silvestri</a></p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1#xywh=990,207,208,110",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Pittori (painters)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1#xywh=1205,215,254,112",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Scultori (sculptors)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2",
-            "type": "Canvas",
-            "height": 2162,
-            "width": 1630,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516260629f896v"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/38d1dd02f1447726e5cc04f11f8e7df5/full/226,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 226
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/38d1dd02f1447726e5cc04f11f8e7df5/full/1508,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1508,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/38d1dd02f1447726e5cc04f11f8e7df5",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 896v]</p><p><a href=\"https://www.nga.gov/accademia/en/persons/nicola-garambolo.html\">Nicola Garambolo</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/matteo-erena-da.html\">Mattheo da Erena</a> Messenese<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/geronimo-canetti.html\">Gironimo Canetra</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/angelo-ceccarelli.html\">Angelo Ceccharelli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/desiderio-gennini.html\">Desiderio G[e]nnini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-verretti.html\">Fran.co Verretti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-francesco-uberti-d.html\">Gio: Francesco d'Uberti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/ottavio-carosi.html\">Ottavio Carosi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/minuzio-minucci.html\">Minucci Minucci</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pietro-andronico.html\">Pietro Andronico</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giuseppe-fidele.html\">Gioseppe Fidele</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/alessandro-locatelli.html\">Alessandro Lucatello</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-battista-lorenzo-alberti.html\">Gio: Bat'ta Lorenzo Alberto</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/fiorino-garnini.html\">Fiorino Garnini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-rossi-de.html\">Franscesco Rossi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/lorenzo-testa.html\">Lorenzo Testa</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/prospero-greco.html\">Prospero Greco</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-battista-pianello.html\">Gio: Bat'ta Pianelli</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/silvio-capio.html\">Silvio Capio</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pietro-ferrerio.html\">Pietro Ferro</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/santo-avanzini.html\">Santi Avanzini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/antonio_gallicano.html\">Antonio Gallicano</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/guidobaldo-abbatini.html\">Guidolbaldo Abbatin[i]</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/simone-aprosio.html\">Simone Aprosio</a> Raccamatore<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/francesco-pacini.html\">Fran.co Pacini</a> Raccamatore<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/vincenzo-sabbato.html\">Vincenzo Sabazzi </a>Raccamatore<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/leonardo-santi-de.html\">Leonardo de Santi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/ascanio-barigioni.html\">Ascanio Barigioni</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/tommaso-campana.html\">Tomasso Campana</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giorgio-bossarte.html\">Giorgio Bossarte</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/michelangelo-guidi.html\">Michal Angelo Guidi</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/annibale-durante.html\">Anibale Durante</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/gismondo-traccia.html\">Gismondo Tracci</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/marco-tullio-montagna.html\">Marco Tullio Montagna</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/jacques-stella.html\">Iacomo Stella</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/charles_mellin.html\">Carlo Mellini</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/riccardo-messonetti.html\">Riccardo Messonetti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/jean-lhomme.html\">Gio: l'Homo</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/trophime-bigot.html\">Teofilo Bigotti</a><span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/pietro-reno.html\">Pietro Reno</a></p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2#xywh=1313,214,288,91",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Raccamatore (embroiderer)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1516260629"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 15 Pt. 2 Vol. 108 fols. 896r-v"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1626"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Lorenzo Tigrino"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Meeting"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rome; Sant'Eustachio (Rione); Crescenzi Palace"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Agostino Ciampelli; Alessandro Bottoni; Alessandro Locatelli; Andrea Lilio; Angelo Ceccarelli; Annibale Durante; Antonio Caroccio; Antonio Gallicano; Antonio Circignani; Ascanio Barigioni; Astolfo Petrazzi; Bonetto Bonetti; Charles Mellin; Cesare Rossetti; Claude Mellan; Desiderio Gennini; Domenico Silvestri; Fiorino Garnini; Giovanni Francesco Uberti (d'); Francesco Pacini; Francesco Grigiotti; Francesco Rossi (de); Gaspare Ferrari (de); Giovanni Antonio Longo; Giovanni Baglione; Giovanni Battista Lorenzo Alberti; Giovanni Battista Pianello; Jean Lhomme; Giorgio Bossarte; Giuseppe Fidele; Giuseppe Franchi; Geronimo Canetti; Girolamo Massei; Gismondo Traccia; Guidobaldo Abbatini; Orazio Riminaldi; Giacomo Crescenzi; Giacomo Galli; Simon Vouet; Lattanzio Nicoli; Leonardo Santi (de); Antonio Tempesta; Ottavio Mario Leoni; Lorenzo Testa; Lorenzo Bartolomeo Ciarpi; Marcello Provenzale; Marcantonio Aliprandi; Marco Tullio Montagna; Matteo Erena (da); Michelangelo Guidi; Michele Castello (da); Minuzio Minucci; Noè Marchetti; Nicola Garambolo; Nicolas La Fage (de); Ottavio Carosi; Paolo Bardi; Paul Bril; Pietro Andronico; Pietro Ferrerio; Pietro Reno; Prospero Greco; Prospero Orsi; Riccardo Messonetti; Santo Avanzini; Silvio Capio; Simone Aprosio; Trophime Bigot; Tommaso Campana; Vincenzo Sabbato; Francesco Verretti; Jacques Stella"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Italian"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  The document contains only the list of participants.    [Italian version]  Il documento si limita all'elenco dei partecipanti."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Painter",
+          "Sculptor",
+          "Meeting",
+          "Principe",
+          "Advisor",
+          "Embroiderer"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606/full/232,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 232
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1",
+      "type": "Canvas",
+      "height": 2192,
+      "width": 1696,
+      "label": {
+        "none": [
+          "ASRTNCUff1516260629f896r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606/full/232,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 232
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606/full/1547,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1547,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/b9d3420d3c43664e599dc45fa5192606",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 896r]</p><p>Cong<em>regati</em>o Pittor<em>um</em> etc.<span class=\"line-break\"><br></span>Die 29 Iunii 1626</p><p></p><p>Fu fatta Congregatione delli Sig.ri Pittori, et Scultori di Roma<span class=\"line-break\"><br></span>della Cong<em>regation</em>e di San Luca nella Sala del Palazzo<span class=\"line-break\"><br></span>dell'Ill.mo Sig.r Iacomo Abbate Crescentio nel Rione<span class=\"line-break\"><br></span>di S. Eustacchio dove intervennero tutti l'In-<span class=\"line-break\"><br></span>frascritti cioè<span class=\"line-break\"><br></span>L'Ill'Sig.r Simone Vuetti Prencipe<span class=\"line-break\"><br></span>Li Sig.ri Cav.re Ottavio Leoni et<span class=\"line-break\"><br></span>Gio: Baglioni<span class=\"line-break\"><br></span>Li Sig.ri Antonio Tempesta<span class=\"line-break\"><br></span>Marcello Proventiali<span class=\"line-break\"><br></span>Antonio Pomaranci<span class=\"line-break\"><br></span>Agostino Ciampelli<span class=\"line-break\"><br></span>Paolo Brilli<span class=\"line-break\"><br></span>Baccio Ciarpi<span class=\"line-break\"><br></span>Andrea Lilii<span class=\"line-break\"><br></span>Cesare Rossetti<span class=\"line-break\"><br></span>Gironimo Massei<span class=\"line-break\"><br></span>Gioseppe Francho<span class=\"line-break\"><br></span>Michele Castelli<span class=\"line-break\"><br></span>Nicolo La faggia Consegliere<span class=\"line-break\"><br></span>Francesco Griggiotti<span class=\"line-break\"><br></span>H[o]ratio Riminaldi<span class=\"line-break\"><br></span>Prospero Orsi<span class=\"line-break\"><br></span>Astolfo Petrazzi<span class=\"line-break\"><br></span>Claudio Mellano<span class=\"line-break\"><br></span>Gaspare Ferraro<span class=\"line-break\"><br></span>Alessandro Bottoni<span class=\"line-break\"><br></span>Gio: Antonio Longhi<span class=\"line-break\"><br></span>Bonetto Bonetti<span class=\"line-break\"><br></span>Marco Antonio Librandi<span class=\"line-break\"><br></span>N[o]è Marchetti<span class=\"line-break\"><br></span>Lattantio Nicoli<span class=\"line-break\"><br></span>Iacomo Galli<span class=\"line-break\"><br></span>Antonio Caroccio<span class=\"line-break\"><br></span>Paolo [Ba]rdi<span class=\"line-break\"><br></span>Domenico Silvestri</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1#xywh=990,207,208,110",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Pittori (painters)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/1#xywh=1205,215,254,112",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Scultori (sculptors)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2",
+      "type": "Canvas",
+      "height": 2162,
+      "width": 1630,
+      "label": {
+        "none": [
+          "ASRTNCUff1516260629f896v"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/38d1dd02f1447726e5cc04f11f8e7df5/full/226,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 226
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/38d1dd02f1447726e5cc04f11f8e7df5/full/1508,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1508,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/38d1dd02f1447726e5cc04f11f8e7df5",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 896v]</p><p>Nicola Garambolo<span class=\"line-break\"><br></span>Mattheo da Erena Messenese<span class=\"line-break\"><br></span>Gironimo Canetra<span class=\"line-break\"><br></span>Angelo Ceccharelli<span class=\"line-break\"><br></span>Desiderio G[e]nnini<span class=\"line-break\"><br></span>Fran.co Verretti<span class=\"line-break\"><br></span>Gio: Francesco d'Uberti<span class=\"line-break\"><br></span>Ottavio Carosi<span class=\"line-break\"><br></span>Minucci Minucci<span class=\"line-break\"><br></span>Pietro Andronico<span class=\"line-break\"><br></span>Gioseppe Fidele<span class=\"line-break\"><br></span>Alessandro Lucatello<span class=\"line-break\"><br></span>Gio: Bat'ta Lorenzo Alberto<span class=\"line-break\"><br></span>Fiorino Garnini<span class=\"line-break\"><br></span>Franscesco Rossi<span class=\"line-break\"><br></span>Lorenzo Testa<span class=\"line-break\"><br></span>Prospero Greco<span class=\"line-break\"><br></span>Gio: Bat'ta Pianelli<span class=\"line-break\"><br></span>Silvio Capio<span class=\"line-break\"><br></span>Pietro Ferro<span class=\"line-break\"><br></span>Santi Avanzini<span class=\"line-break\"><br></span>Antonio Gallicano<span class=\"line-break\"><br></span>Guidolbaldo Abbatin[i]<span class=\"line-break\"><br></span>Simone Aprosio Raccamatore<span class=\"line-break\"><br></span>Fran.co Pacini Raccamatore<span class=\"line-break\"><br></span>Vincenzo Sabazzi Raccamatore<span class=\"line-break\"><br></span>Leonardo de Santi<span class=\"line-break\"><br></span>Ascanio Barigioni<span class=\"line-break\"><br></span>Tomasso Campana<span class=\"line-break\"><br></span>Giorgio Bossarte<span class=\"line-break\"><br></span>Michal Angelo Guidi<span class=\"line-break\"><br></span>Anibale Durante<span class=\"line-break\"><br></span>Gismondo Tracci<span class=\"line-break\"><br></span>Marco Tullio Montagna<span class=\"line-break\"><br></span>Iacomo Stella<span class=\"line-break\"><br></span>Carlo Mellini<span class=\"line-break\"><br></span>Riccardo Messonetti<span class=\"line-break\"><br></span>Gio: l'Homo<span class=\"line-break\"><br></span>Teofilo Bigotti<span class=\"line-break\"><br></span>Pietro Reno</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516260629/canvas/2#xywh=1313,214,288,91",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Raccamatore (embroiderer)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

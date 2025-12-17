@@ -1,255 +1,255 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1115950109"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 11 Vol. 30 Folio 13r"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1595"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Ottaviano Saravezzi"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Quittance"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Pigna (Rione)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Filippo Bassano; Tommaso Fonte (de); Costanza Pino (del); Giovanni Francesco Rossi (de); Scipione Quintilio; Girolamo Muziano"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Latin"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  Costanza del Pino receives from the Compagnia di San Luca the interest on an annuity (censo), instituted by Girolamo Muziano in 1590.    [Italian version]  Costanza del Pino riceve dalla compagnia di San Luca i frutti di un censo, istituito nel 1590 da Girolamo Muziano."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Goods",
-                    "Heir",
-                    "Confraternity",
-                    "Cameral obligation",
-                    "Notarial act",
-                    "Obligation",
-                    "Quittance",
-                    "Treasurer",
-                    "Apostolic Camera",
-                    "Interest",
-                    "Annuity"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4/full/211,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 211
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1",
-            "type": "Canvas",
-            "height": 2240,
-            "width": 1576,
-            "label": {
-                "none": [
-                    "ASRTNCUff1115950109f13r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4/full/211,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 211
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4/full/1407,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1407,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 13r]</p><p>Quiet<em>anti</em>a<span class=\"line-break\"><br></span>Die <em>nov</em>a men<em>sis</em> Ianuarii 1595</p><p></p><p>IN mei etc. per<em>sona</em>l<em>ite</em>r Constituta d. Constantia uxor Io: An-<span class=\"line-break\"><br></span>geli del pino florentina que sponte etc. omnibus etc.<span class=\"line-break\"><br></span>Confessa fuit se esse satisfatta de o<em>m</em>nibus, et sin-<span class=\"line-break\"><br></span>gulis fructibus census scutor<em>um</em> septuaginta olim<span class=\"line-break\"><br></span>impositi<em>s</em> p<em>er</em> quonda<em>m</em> d. <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\">Hieronimu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\"> Mazzianu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-muziano.html\">m</a></em><span class=\"line-break\"><br></span>pro ut asseruit constare Instrumentu<em>m</em> rogat<em>um</em> per<span class=\"line-break\"><br></span>d. <a href=\"https://www.nga.gov/accademia/en/persons/tommaso-fonte-de.html\">Thoma</a><em><a href=\"https://www.nga.gov/accademia/en/persons/tommaso-fonte-de.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/tommaso-fonte-de.html\"> de Fonte </a>Connotariu<em>m</em> sub die decima<span class=\"line-break\"><br></span>quinta decembris 1590 ad quod etc. eo quia confessa<span class=\"line-break\"><br></span>fuit d<em>ict</em>os frutt<em>us</em> habuisse, et nunc in mei ac testiu<em>m</em><span class=\"line-break\"><br></span>etc. in contanti in tot Iuliis, et testonibus argenteis<span class=\"line-break\"><br></span>habuit à venerabile societate Sancti Luce de urbe<span class=\"line-break\"><br></span>p<em>er</em> manus d <a href=\"https://www.nga.gov/accademia/en/persons/scipione-quintilio.html\">Scipioni Quintilii</a> Camerarii dict<em>a</em>e Confra-<span class=\"line-break\"><br></span>ternitatis, et pro residuo scut<em>orum</em> 4, et ba<em>ioccorum</em> 95 dittor<em>um</em> fructu<em>um</em><span class=\"line-break\"><br></span>decursor<em>um</em> usq<em>ue</em> ad die<em>m</em> decima<em>m</em> quinta<em>m</em> decembris 1594<span class=\"line-break\"><br></span>de quib<em>u</em>s etc. R<em>enunciav</em>it exc<em>eptio</em>ni etc. quietavit etc. per patt<em>um</em> etc., et Pro-<span class=\"line-break\"><br></span>mittens in super a d<em>ict</em>a<sup>[1]</sup> d. Constantia hanc quietantia<em>m</em><span class=\"line-break\"><br></span>esse bona<em>m</em>, et leg<em>iti</em>me fatta<em>m</em> al<em>ia</em>s etc. de quib<em>us</em> etc. Pro quibus etc.<span class=\"line-break\"><br></span>se etc. heredes etc. bona etc. in ampliori forma Cam<em>e</em>r<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e cu<em>m</em> solitis cl<em>ausul</em>is citra etc. obligavit etc. Renuncians etc.<span class=\"line-break\"><br></span>Consentiens etc. suscipiens etc. sicq<em>ue</em> tattis Iuravit etc.<span class=\"line-break\"><br></span>super quibus etc. Act<em>um</em> Rom<em>a</em>e in off<em>ici</em>o mei <a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">Regionis Pin</a><em><a href=\"https://www.nga.gov/accademia/en/places/Pigna_Rione.html\">ea</a></em><span class=\"line-break\"><br></span>p<em>rese</em>ntibus dd.<a href=\"https://www.nga.gov/accademia/en/persons/filippo-bassano.html\"> Phelippo Bassano</a> Ro<em>mano</em> et <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-francesco-rossi-de.html\">Io: Fran.co Rubeo</a><span class=\"line-break\"><br></span>de Monte Leone spoletane dioc<em>esis</em> t<em>es</em>t<em>ibus</em> etc.</p><p></p><p>[1]&nbsp;Uncertain.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1#xywh=659,598,169,50",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>census (annuity)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1#xywh=1277,1505,199,93",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Cam<em>e</em>r<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e (Apostolic Camera)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1115950109"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 11 Vol. 30 Folio 13r"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1595"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ottaviano Saravezzi"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Quittance"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pigna (Rione)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Filippo Bassano; Tommaso Fonte (de); Costanza Pino (del); Giovanni Francesco Rossi (de); Scipione Quintilio; Girolamo Muziano"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Latin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  Costanza del Pino receives from the Compagnia di San Luca the interest on an annuity (censo), instituted by Girolamo Muziano in 1590.    [Italian version]  Costanza del Pino riceve dalla compagnia di San Luca i frutti di un censo, istituito nel 1590 da Girolamo Muziano."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Goods",
+          "Heir",
+          "Confraternity",
+          "Cameral obligation",
+          "Notarial act",
+          "Obligation",
+          "Quittance",
+          "Treasurer",
+          "Apostolic Camera",
+          "Interest",
+          "Annuity"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4/full/211,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 211
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1",
+      "type": "Canvas",
+      "height": 2240,
+      "width": 1576,
+      "label": {
+        "none": [
+          "ASRTNCUff1115950109f13r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4/full/211,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 211
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4/full/1407,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1407,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/4d133c722661d97f675ee4151361afb4",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 13r]</p><p>Quiet<em>anti</em>a<span class=\"line-break\"><br></span>Die <em>nov</em>a men<em>sis</em> Ianuarii 1595</p><p></p><p>IN mei etc. per<em>sona</em>l<em>ite</em>r Constituta d. Constantia uxor Io: An-<span class=\"line-break\"><br></span>geli del pino florentina que sponte etc. omnibus etc.<span class=\"line-break\"><br></span>Confessa fuit se esse satisfatta de o<em>m</em>nibus, et sin-<span class=\"line-break\"><br></span>gulis fructibus census scutor<em>um</em> septuaginta olim<span class=\"line-break\"><br></span>impositi<em>s</em> p<em>er</em> quonda<em>m</em> d. Hieronimu<em>m</em> Mazzianu<em>m</em><span class=\"line-break\"><br></span>pro ut asseruit constare Instrumentu<em>m</em> rogat<em>um</em> per<span class=\"line-break\"><br></span>d. Thoma<em>m</em> de Fonte Connotariu<em>m</em> sub die decima<span class=\"line-break\"><br></span>quinta decembris 1590 ad quod etc. eo quia confessa<span class=\"line-break\"><br></span>fuit d<em>ict</em>os frutt<em>us</em> habuisse, et nunc in mei ac testiu<em>m</em><span class=\"line-break\"><br></span>etc. in contanti in tot Iuliis, et testonibus argenteis<span class=\"line-break\"><br></span>habuit à venerabile societate Sancti Luce de urbe<span class=\"line-break\"><br></span>p<em>er</em> manus d Scipioni Quintilii Camerarii dict<em>a</em>e Confra-<span class=\"line-break\"><br></span>ternitatis, et pro residuo scut<em>orum</em> 4, et ba<em>ioccorum</em> 95 dittor<em>um</em> fructu<em>um</em><span class=\"line-break\"><br></span>decursor<em>um</em> usq<em>ue</em> ad die<em>m</em> decima<em>m</em> quinta<em>m</em> decembris 1594<span class=\"line-break\"><br></span>de quib<em>u</em>s etc. R<em>enunciav</em>it exc<em>eptio</em>ni etc. quietavit etc. per patt<em>um</em> etc., et Pro-<span class=\"line-break\"><br></span>mittens in super a d<em>ict</em>a<sup>[1]</sup> d. Constantia hanc quietantia<em>m</em><span class=\"line-break\"><br></span>esse bona<em>m</em>, et leg<em>iti</em>me fatta<em>m</em> al<em>ia</em>s etc. de quib<em>us</em> etc. Pro quibus etc.<span class=\"line-break\"><br></span>se etc. heredes etc. bona etc. in ampliori forma Cam<em>e</em>r<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e cu<em>m</em> solitis cl<em>ausul</em>is citra etc. obligavit etc. Renuncians etc.<span class=\"line-break\"><br></span>Consentiens etc. suscipiens etc. sicq<em>ue</em> tattis Iuravit etc.<span class=\"line-break\"><br></span>super quibus etc. Act<em>um</em> Rom<em>a</em>e in off<em>ici</em>o mei Regionis Pin<em>ea</em><span class=\"line-break\"><br></span>p<em>rese</em>ntibus dd. Phelippo Bassano Ro<em>mano</em> et Io: Fran.co Rubeo<span class=\"line-break\"><br></span>de Monte Leone spoletane dioc<em>esis</em> t<em>es</em>t<em>ibus</em> etc.</p><p></p><p>[1]&nbsp;Uncertain.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1#xywh=659,598,169,50",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>census (annuity)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115950109/canvas/1#xywh=1277,1505,199,93",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Cam<em>e</em>r<em>a</em>e<span class=\"line-break\"><br></span>Ap<em>osto</em>lic<em>a</em>e (Apostolic Camera)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

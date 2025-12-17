@@ -1,275 +1,275 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1516100524"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 15 Vol. 48 Folio 245r"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1610"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Giovanni Antonio Moschenio"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Promise"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Rome; Sant'Eustachio (Rione)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Girolamo Maneo; Girolamo Delicori (de); Ranuccio Semprevivo; Cesare Rossetti; Innocenzo Albino"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Latin"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  Ranuccio Semprevivo and Cesare Rossetti promise the Accademia di San Luca to pay 2 percent of the amount of Girolamo Maneo's appraisal.    [Italian version]  Ranuccio Semprevivo e Cesare Rossetti promettono all'Accademia di San Luca di pagare il 2 percento della somma che sarà stimata da Girolamo Maneo."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Goods",
-                    "Painter",
-                    "Heir",
-                    "Sculptor",
-                    "Work (of art)",
-                    "Cameral obligation",
-                    "Obligation",
-                    "Appraisal",
-                    "Academy"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f/full/231,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 231
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1",
-            "type": "Canvas",
-            "height": 2174,
-            "width": 1678,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516100524f245r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f/full/231,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 231
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f/full/1544,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1544,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 245r]</p><p>Promissio<span class=\"line-break\"><br></span>Die 24 Maii 1610</p><p></p><p>In mei etc. Constituti p<em>ersona</em>l<em>ite</em>r D. D. <a href=\"https://www.nga.gov/accademia/en/persons/ranuccio-semprevivo.html\">Ranuccius Se</a><em><a href=\"https://www.nga.gov/accademia/en/persons/ranuccio-semprevivo.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/ranuccio-semprevivo.html\">previvus</a> Rom<em>anus</em><span class=\"line-break\"><br></span>et <a href=\"https://www.nga.gov/accademia/en/persons/cesare-rossetti.html\">Cesar Roscettus</a> et<em>iam</em> Rom<em>anus</em> sp<em>ont</em>e etc. omni meliori modo etc.<span class=\"line-break\"><br></span>promiserunt et sé obligarunt Ill. […]&nbsp;<sup>[1]</sup> Ac[a]demia Pictoru<em>m</em><span class=\"line-break\"><br></span>et sculptoru<em>m</em> Urbis absenti etc. me etc. p<em>rese</em>nte etc. solvere scuta<span class=\"line-break\"><br></span>duo pro quolibet centenario pecuniaru<em>m</em> ad quas ascen-<span class=\"line-break\"><br></span>det extimatio cuiusd<em>em</em> operis facta seu fien<em>da</em> per D. <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-maneo.html\">Hie-<span class=\"line-break\"><br></span>ronimu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-maneo.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-maneo.html\"> Maneu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/girolamo-maneo.html\">m</a></em>&nbsp;<sup>[2]</sup> Lucensem Pictorem Statim habita<span class=\"line-break\"><br></span>pecunia hic Roma<em>e</em> libere etc. alias etc. proquibus etc. sese etc.<span class=\"line-break\"><br></span>heredes etc. ac bona etc. in forma Camere etc. cum cl<em>ausul</em>is etc. obli-<span class=\"line-break\"><br></span>garunt etc. renuntiarunt etc. consenserunt etc. et ita tactis<span class=\"line-break\"><br></span>etc. Iurarunt etc. super quibus etc.<span class=\"line-break\"><br></span>Actum <a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">Roma</a><em><a href=\"https://www.nga.gov/accademia/en/places/Rome.html\">e</a></em> in <a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">Reg</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">io</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ne S</a><em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/en/places/Sant_Eustachio_Rione.html\">ti Eustachii</a> et in offitio mei etc.<span class=\"line-break\"><br></span>p<em>rese</em>ntibus etc. D. <a href=\"https://www.nga.gov/accademia/en/persons/girolamo-delicori-de.html\">Hieronimo de' Delicoris</a> et D. <a href=\"https://www.nga.gov/accademia/en/persons/innocenzo-albino.html\">Inno-<span class=\"line-break\"><br></span>centio Albino</a> Romanis testibus etc.</p><p></p><p>[1]&nbsp;Ink spot.</p><p>[2]&nbsp;Or \"Mancum.\"</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=1055,342,297,120",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Ac[a]demia (Academy)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=844,651,152,104",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>operis (work of art)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=397,975,167,105",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>heredes (heir)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-5",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=741,922,442,128",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>in forma Camere (Cameral obligation)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1516100524"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 15 Vol. 48 Folio 245r"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1610"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Giovanni Antonio Moschenio"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Promise"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rome; Sant'Eustachio (Rione)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Girolamo Maneo; Girolamo Delicori (de); Ranuccio Semprevivo; Cesare Rossetti; Innocenzo Albino"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Latin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  Ranuccio Semprevivo and Cesare Rossetti promise the Accademia di San Luca to pay 2 percent of the amount of Girolamo Maneo's appraisal.    [Italian version]  Ranuccio Semprevivo e Cesare Rossetti promettono all'Accademia di San Luca di pagare il 2 percento della somma che sarà stimata da Girolamo Maneo."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Goods",
+          "Painter",
+          "Heir",
+          "Sculptor",
+          "Work (of art)",
+          "Cameral obligation",
+          "Obligation",
+          "Appraisal",
+          "Academy"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f/full/231,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 231
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1",
+      "type": "Canvas",
+      "height": 2174,
+      "width": 1678,
+      "label": {
+        "none": [
+          "ASRTNCUff1516100524f245r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f/full/231,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 231
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f/full/1544,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1544,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/bd0a0ca8069e81fdb1e1aa6118d0126f",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 245r]</p><p>Promissio<span class=\"line-break\"><br></span>Die 24 Maii 1610</p><p></p><p>In mei etc. Constituti p<em>ersona</em>l<em>ite</em>r D. D. Ranuccius Se<em>m</em>previvus Rom<em>anus</em><span class=\"line-break\"><br></span>et Cesar Roscettus et<em>iam</em> Rom<em>anus</em> sp<em>ont</em>e etc. omni meliori modo etc.<span class=\"line-break\"><br></span>promiserunt et sé obligarunt Ill. […]&nbsp;<sup>[1]</sup> Ac[a]demia Pictoru<em>m</em><span class=\"line-break\"><br></span>et sculptoru<em>m</em> Urbis absenti etc. me etc. p<em>rese</em>nte etc. solvere scuta<span class=\"line-break\"><br></span>duo pro quolibet centenario pecuniaru<em>m</em> ad quas ascen-<span class=\"line-break\"><br></span>det extimatio cuiusd<em>em</em> operis facta seu fien<em>da</em> per D. Hie-<span class=\"line-break\"><br></span>ronimu<em>m</em> Maneu<em>m</em>&nbsp;<sup>[2]</sup> Lucensem Pictorem Statim habita<span class=\"line-break\"><br></span>pecunia hic Roma<em>e</em> libere etc. alias etc. proquibus etc. sese etc.<span class=\"line-break\"><br></span>heredes etc. ac bona etc. in forma Camere etc. cum cl<em>ausul</em>is etc. obli-<span class=\"line-break\"><br></span>garunt etc. renuntiarunt etc. consenserunt etc. et ita tactis<span class=\"line-break\"><br></span>etc. Iurarunt etc. super quibus etc.<span class=\"line-break\"><br></span>Actum Roma<em>e</em> in Reg<em>io</em>ne S<em>anc</em>ti Eustachii et in offitio mei etc.<span class=\"line-break\"><br></span>p<em>rese</em>ntibus etc. D. Hieronimo de' Delicoris et D. Inno-<span class=\"line-break\"><br></span>centio Albino Romanis testibus etc.</p><p></p><p>[1]&nbsp;Ink spot.</p><p>[2]&nbsp;Or \"Mancum.\"</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=1055,342,297,120",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Ac[a]demia (Academy)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=844,651,152,104",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>operis (work of art)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=397,975,167,105",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>heredes (heir)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1/annopage-2/anno-5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516100524/canvas/1#xywh=741,922,442,128",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>in forma Camere (Cameral obligation)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

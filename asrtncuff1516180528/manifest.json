@@ -1,492 +1,492 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1516180528"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 15 Pt. 2 Vol. 76 fols. 637r-v, 657r-v"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1618"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Erasto Spannocchia"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Copy inserted in an obligation"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Rome; Altemps Palace; Church of Santi Luca e Martina (San Luca and Santa Martina)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Marcantonio Bassetti; Annibale Durante; Giovanni Baglione; Giovanni Angelo Altemps"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Italian"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  The document is a copy inserted in an obligation made on May 20, 1618. Marcantonio Bassetti is named expert by Annibale Durante, for the purpose of appraising his paintings and works made in the palace of Duke Giovanni Angelo Altemps at Monte Cavallo. Duke Altemps names Francesco (whose surname is not mentioned) to carry out the appraisal. The document contains the appraisal, sealed by Giovanni Baglione, principe of the Accademia.    [Italian version]  Il documento è una copia inserita in un atto di obbligazione del 20 maggio 1618. Marcantonio Bassetti è eletto perito per parte di Annibale Durante, affinchè stimi insieme a Francesco (il cui cognome non è indicato) perito eletto per parte del Duca Giovanni Angelo Altemps, le pitture e i lavori fatti da Annibale nel Palazzo del Duca Altemps a Monte Cavallo. Segue la stima delle pitture e dei lavori, sigillata da Giovanni Baglione principe dell'Accademia."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Work (labor)",
-                    "Sodality",
-                    "Obligation",
-                    "Quittance",
-                    "Appraisal",
-                    "Painting",
-                    "Principe",
-                    "Statutes",
-                    "Expert",
-                    "Good faith agreement",
-                    "Figure",
-                    "Act",
-                    "Frames",
-                    "Duke"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce/full/211,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 211
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1",
-            "type": "Canvas",
-            "height": 2222,
-            "width": 1563,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516180520f637r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce/full/211,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 211
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce/full/1407,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1407,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 637r]</p><p>Copia inserta in Instr<em>ument</em>o obligationis fact<em>o</em> ad favorem <a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">Ecclesia</a><em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\"> s</a><em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">ti<span class=\"line-break\"><br></span>Luca</a><em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">e</a></em> Die 20 Maii 1618</p><p></p><p>Io <a href=\"https://www.nga.gov/accademia/it/persons/marcantonio-bassetti.html\">Marco Antonio Bassetti</a> Veronese Pittore in Roma perito electo et nominato per<span class=\"line-break\"><br></span>parte del sig.e <a href=\"https://www.nga.gov/accademia/it/persons/annibale-durante.html\">Anibale Durante</a> a vedere et extimare in Comp<em>agni</em>a del Sig.e Fran.o<span class=\"line-break\"><br></span>. . . Pittore perito et nominat[o] <sup>[1]</sup> per la parte del ecc.mo Sig.e <a href=\"https://www.nga.gov/accademia/it/persons/giovanni-angelo-altemps.html\">Duca Alte[mp]s</a><span class=\"line-break\"><br></span>si come consta per li atti dell'Olivello not<em>ario</em> AC tutte le pitture et altri lavori<span class=\"line-break\"><br></span>fatti da d<em>ett</em>o Sig.r <a href=\"https://www.nga.gov/accademia/it/persons/annibale-durante.html\">Anibale</a> et fatti fare nel <a href=\"https://www.nga.gov/accademia/it/places/Altemps_Palace.html\">Palazzo</a> et stantie di esso Ecc.mo Sig. Duca<span class=\"line-break\"><br></span>di monte Cavallo le quali viste et ben considerate da me et anco dal sud<em>ett</em>o<span class=\"line-break\"><br></span>sig. Fran.o et da ambi doi Insieme dico, et referisco per parte mea conforme<span class=\"line-break\"><br></span>al dovere et quello mi detto la conscientia che d<em>ett</em>o Sig.r <a href=\"https://www.nga.gov/accademia/it/persons/annibale-durante.html\">Anibale</a> [m]erita et li<span class=\"line-break\"><br></span>si deve pagare da d<em>ett</em>o Ecc.mo Sig. Duca li Infr<em>ascritti</em> lavori et ciasched'uno di essi si p<em>er</em><span class=\"line-break\"><br></span>mercede come per spese fatte in esse come si vede et cosi referisco l'Infr<em>ascritt</em>i<span class=\"line-break\"><br></span>precii conforme a quello apare p<em>er</em> giustitia<span class=\"line-break\"><br></span>In p<em>rim</em>o referisco come s<em>opr</em>a haver visto et extimato li venti otto putti fatto nell'fregio<span class=\"line-break\"><br></span>del Solaro di d<em>ett</em>o <a href=\"https://www.nga.gov/accademia/it/places/Altemps_Palace.html\">Palazzo</a> si deve pagare dico per mercede et spese come s<em>opr</em>a a ragione<span class=\"line-break\"><br></span>di 25 giulii l'uno che in tutto importa scudi __________________________________________70<span class=\"line-break\"><br></span>It<em>em</em> per le due Istorie di David che sono in d<em>ett</em>o fregio________________________________36<span class=\"line-break\"><br></span>It<em>em</em> per le quatro figure che sono in d<em>ett</em>o fregio_________________________________ 24<span class=\"line-break\"><br></span>It<em>em</em> per tutta la gionta del Posam<em>en</em>to delle Colonne di esso____________________________ 20<span class=\"line-break\"><br></span>It<em>em</em> per due fineste di esse stantie cu<em>m</em> armi p[o]r[t]e grothesca et pietre<span class=\"line-break\"><br></span>mischie_______________________________________ 24<span class=\"line-break\"><br></span>Nella <em>Second</em>a stanza<span class=\"line-break\"><br></span>Per le quatro Istorie di Tabia a ragione di decidotto scudi l'una im-<span class=\"line-break\"><br></span>porta in tutto scudi __________________________________________________ 72<span class=\"line-break\"><br></span>Per haver rifatto le quatro armi delli Cantoni_________________________________ 8<span class=\"line-break\"><br></span>Per tre prospettive in d<em>ett</em>o fregio con deci putti p<em>er</em> ciasched'una_____________________ 45<span class=\"line-break\"><br></span>Per tutti li modelloni con la cornice finta d[i] stuc[c]h[i] co<em>n</em> int[a]gli et […]<span class=\"line-break\"><br></span>saccho intutto_________________________________________ 60</p><p></p><p>[1]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1#xywh=1267,338,158,82",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p><a href=\"https://www.nga.gov/accademia/it/persons/giovanni-angelo-altemps.html\">Duca</a>&nbsp;(duke)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1#xywh=1051,428,186,93",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>pitture (paintings)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1#xywh=335,1270,199,113",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>figure (figures)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2",
-            "type": "Canvas",
-            "height": 2204,
-            "width": 1564,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516180520f637v"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/b54d0ef85df2b957b114d5250881cfa6/full/213,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 213
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/b54d0ef85df2b957b114d5250881cfa6/full/1419,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1419,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/b54d0ef85df2b957b114d5250881cfa6",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 637v]</p><p>Per le quatro fenestre con Putti, Armi imprese Grotthesche pietre<span class=\"line-break\"><br></span>mischie a raggio di disdocto scudi l'una in tutti________________________72<span class=\"line-break\"><br></span>Per l' Induratura della metà dell[a] Cornice di stucco____________________________25<span class=\"line-break\"><br></span>Nella <em>Terz</em>a Stanza<span class=\"line-break\"><br></span>It<em>em</em> per le otto figure tra le quali c' n'e una no<em>n</em> finita che […] refalcata dei scudi<span class=\"line-break\"><br></span>nel fregio della d<em>ett</em>a Stanza a ragione di sei scudi l'una intutto__________________ 46<span class=\"line-break\"><br></span>It<em>em</em> per li venti quatro Putti nel d<em>ett</em>o fregio a ragione di 25 giulii l'uno scudi _________ 60<span class=\"line-break\"><br></span>It<em>em</em> per le quatro armi delle Cantonate in d<em>ett</em>o fregio a ragione di scudi 4 l'una________ 16<span class=\"line-break\"><br></span>It<em>em</em> per ornam<em>en</em>ti colonne cartelle Architrave cornice festoni con 4<span class=\"line-break\"><br></span>pari a ragione di venti scudi per facciata intutto______________________________ 80<span class=\"line-break\"><br></span>It<em>em</em> per le quatro Tempes di Salamone l'uno per l'altro a ragioni<span class=\"line-break\"><br></span>di decidotto scudi l'uno scudi _____________________________________________________72<span class=\"line-break\"><br></span>It<em>em</em> per sette migliara d'oro messe nella Cornice di stucho con il quadro<span class=\"line-break\"><br></span>della volta di d<em>ett</em>a stanza a scudi 16 il migliaro che cosi furno d'accordo in tu[t]to importa___112<span class=\"line-break\"><br></span>Quarta Stanza c[on] Pittura a olio<span class=\"line-break\"><br></span>Per 24 figure cioe l'ore d[e]l giorno et della notte a olio a ragion<span class=\"line-break\"><br></span>di scudi otto l'una in tutto scudi_________________________________________200<span class=\"line-break\"><br></span>Per le otto Istorie di musiche a olio in d<em>ett</em>o fregio a ragione di scudi quaranta<span class=\"line-break\"><br></span>per ciascheduna intutto scudi___________________________________________320<span class=\"line-break\"><br></span>Per li adornamenti di d<em>ett</em>o fregio a olio cioe colonne renghiere Bala-<span class=\"line-break\"><br></span>ustri Cornice Modilioni et la fattura sopra l'oro nel stato che si retrova 80<span class=\"line-break\"><br></span>Per sette migliara d'oro messe nel fregio et Cornice aver di a ragione<span class=\"line-break\"><br></span>di scudi 16 il migl[ia]ro in[t]utto importa______________________________________ 112<span class=\"line-break\"><br></span>Per il Carro del sole fatta in d<em>ett</em>a stanza nella volta a olio nel stato<span class=\"line-break\"><br></span>che</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3",
-            "type": "Canvas",
-            "height": 2192,
-            "width": 1624,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516180520f657r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/a5f48228677a2b7511bd8b41884be19f/full/222,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 222
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/a5f48228677a2b7511bd8b41884be19f/full/1482,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1482,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/a5f48228677a2b7511bd8b41884be19f",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 657r]</p><p>che si ritrova d'accordo scudi 40 vale scudi__________________________________________40<span class=\"line-break\"><br></span>Altri lavori fatti in d<em>ett</em>o <a href=\"https://www.nga.gov/accademia/en/places/Altemps_Palace.html\">Palazzo</a><span class=\"line-break\"><br></span>Et p<em>rim</em>a per la fattura del strambecco retovatuta&nbsp;<sup>[2]</sup> nell arma et nella volta<span class=\"line-break\"><br></span>della sala scudi 10<span class=\"line-break\"><br></span>It<em>em</em> per fenestre 12 tra grande et picioli finte invetrate l'una p<em>er</em> l'altra<span class=\"line-break\"><br></span>a ragione di 25 giulii l'una intutto 30<span class=\"line-break\"><br></span>It<em>em</em> per diverse pitture de mattoni finti scudi ______________________________________10<span class=\"line-break\"><br></span>It<em>em</em> per una cornice lunga 12 palmi indorata a oro brunita co<em>n</em><span class=\"line-break\"><br></span>fregio fatto a fogliame e graffato__________________________________________________ 25<span class=\"line-break\"><br></span>It<em>em</em> per haver dato l'olio terra gialla et Minio in parte della<span class=\"line-break\"><br></span>Cornice cioe stucchi della <em>second</em>a, <em>terz</em>a et <em>quart</em>a Stanza______________________________ 12<span class=\"line-break\"><br></span>Io <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-baglione.html\">Giovanni Baglioni</a> sottoscrivo la p<em>rese</em>nte et da me si-<span class=\"line-break\"><br></span>gillata<span class=\"line-break\"><br></span>Io <a href=\"https://www.nga.gov/accademia/en/persons/marcantonio-bassetti.html\">Marc'Ant.o Bassetti</a> Veronese affermo tutte l'Infr<em>ascritt</em>e partite essendo<span class=\"line-break\"><br></span>la p<em>rese</em>nte sottoscritta et sigillata dall'Ill Sig.e <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-baglione.html\">Cavalier Baglioni</a><span class=\"line-break\"><br></span>Principe della n<em>ost</em>ra Accademia, conforme alli statuti per<span class=\"line-break\"><br></span>li atti del <a href=\"https://www.nga.gov/accademia/en/persons/erasto-spannocchia.html\">Spannochia</a> not<em>ari</em>o Cap<em>ito</em>lino sotto li 28 maggio 1618<span class=\"line-break\"><br></span>Io <a href=\"https://www.nga.gov/accademia/en/persons/marcantonio-bassetti.html\">Marc'Antonio Bassetti</a><span class=\"line-break\"><br></span>sop<em>radic</em>to affermo q<em>uan</em>to Sopra.</p><p></p><p>[2]&nbsp;Uncertain.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3#xywh=173,1318,254,134",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Principe (principe)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4",
-            "type": "Canvas",
-            "height": 2216,
-            "width": 1546,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516180520f657v"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/142f35a98048048d858882382e9124a0/full/209,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 209
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/142f35a98048048d858882382e9124a0/full/1395,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1395,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/142f35a98048048d858882382e9124a0",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 657v]</p><p>Stima fatta da me <a href=\"https://www.nga.gov/accademia/en/persons/marcantonio-bassetti.html\">Marc'Ant.o Bassetti</a><span class=\"line-break\"><br></span>Veronese Pittore<span class=\"line-break\"><br></span>Per<span class=\"line-break\"><br></span>Il Sig. <a href=\"https://www.nga.gov/accademia/en/persons/annibale-durante.html\">Anibale Durante</a> Pictore<span class=\"line-break\"><br></span>Io <a href=\"https://www.nga.gov/accademia/en/persons/annibale-durante.html\">Anibale Durante</a> ho riceuto la igualle<sup>[3]</sup> della Copia retro<span class=\"line-break\"><br></span>schrita de la quale ne fo quietanzo et in fede Io Luchetto manu</p><p></p><p>[3]&nbsp;For \"uguale\". Uncertain.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4#xywh=627,1103,259,119",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>quietanzo (quittance)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1516180528"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 15 Pt. 2 Vol. 76 fols. 637r-v, 657r-v"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1618"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Erasto Spannocchia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Copy inserted in an obligation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rome; Altemps Palace; Church of Santi Luca e Martina (San Luca and Santa Martina)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Marcantonio Bassetti; Annibale Durante; Giovanni Baglione; Giovanni Angelo Altemps"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Italian"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  The document is a copy inserted in an obligation made on May 20, 1618. Marcantonio Bassetti is named expert by Annibale Durante, for the purpose of appraising his paintings and works made in the palace of Duke Giovanni Angelo Altemps at Monte Cavallo. Duke Altemps names Francesco (whose surname is not mentioned) to carry out the appraisal. The document contains the appraisal, sealed by Giovanni Baglione, principe of the Accademia.    [Italian version]  Il documento è una copia inserita in un atto di obbligazione del 20 maggio 1618. Marcantonio Bassetti è eletto perito per parte di Annibale Durante, affinchè stimi insieme a Francesco (il cui cognome non è indicato) perito eletto per parte del Duca Giovanni Angelo Altemps, le pitture e i lavori fatti da Annibale nel Palazzo del Duca Altemps a Monte Cavallo. Segue la stima delle pitture e dei lavori, sigillata da Giovanni Baglione principe dell'Accademia."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Work (labor)",
+          "Sodality",
+          "Obligation",
+          "Quittance",
+          "Appraisal",
+          "Painting",
+          "Principe",
+          "Statutes",
+          "Expert",
+          "Good faith agreement",
+          "Figure",
+          "Act",
+          "Frames",
+          "Duke"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce/full/211,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 211
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1",
+      "type": "Canvas",
+      "height": 2222,
+      "width": 1563,
+      "label": {
+        "none": [
+          "ASRTNCUff1516180520f637r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce/full/211,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 211
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce/full/1407,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1407,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/6de7f4724f295a8a293e7474b4188dce",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 637r]</p><p>Copia inserta in Instr<em>ument</em>o obligationis fact<em>o</em> ad favorem Ecclesia<em>e</em> s<em>anc</em>ti<span class=\"line-break\"><br></span>Luca<em>e</em> Die 20 Maii 1618</p><p></p><p>Io Marco Antonio Bassetti Veronese Pittore in Roma perito electo et nominato per<span class=\"line-break\"><br></span>parte del sig.e Anibale Durante a vedere et extimare in Comp<em>agni</em>a del Sig.e Fran.o<span class=\"line-break\"><br></span>. . . Pittore perito et nominat[o] <sup>[1]</sup> per la parte del ecc.mo Sig.e Duca Alte[mp]s<span class=\"line-break\"><br></span>si come consta per li atti dell'Olivello not<em>ario</em> AC tutte le pitture et altri lavori<span class=\"line-break\"><br></span>fatti da d<em>ett</em>o Sig.r Anibale et fatti fare nel Palazzo et stantie di esso Ecc.mo Sig. Duca<span class=\"line-break\"><br></span>di monte Cavallo le quali viste et ben considerate da me et anco dal sud<em>ett</em>o<span class=\"line-break\"><br></span>sig. Fran.o et da ambi doi Insieme dico, et referisco per parte mea conforme<span class=\"line-break\"><br></span>al dovere et quello mi detto la conscientia che d<em>ett</em>o Sig.r Anibale [m]erita et li<span class=\"line-break\"><br></span>si deve pagare da d<em>ett</em>o Ecc.mo Sig. Duca li Infr<em>ascritti</em> lavori et ciasched'uno di essi si p<em>er</em><span class=\"line-break\"><br></span>mercede come per spese fatte in esse come si vede et cosi referisco l'Infr<em>ascritt</em>i<span class=\"line-break\"><br></span>precii conforme a quello apare p<em>er</em> giustitia<span class=\"line-break\"><br></span>In p<em>rim</em>o referisco come s<em>opr</em>a haver visto et extimato li venti otto putti fatto nell'fregio<span class=\"line-break\"><br></span>del Solaro di d<em>ett</em>o Palazzo si deve pagare dico per mercede et spese come s<em>opr</em>a a ragione<span class=\"line-break\"><br></span>di 25 giulii l'uno che in tutto importa scudi __________________________________________70<span class=\"line-break\"><br></span>It<em>em</em> per le due Istorie di David che sono in d<em>ett</em>o fregio________________________________36<span class=\"line-break\"><br></span>It<em>em</em> per le quatro figure che sono in d<em>ett</em>o fregio_________________________________ 24<span class=\"line-break\"><br></span>It<em>em</em> per tutta la gionta del Posam<em>en</em>to delle Colonne di esso____________________________ 20<span class=\"line-break\"><br></span>It<em>em</em> per due fineste di esse stantie cu<em>m</em> armi p[o]r[t]e grothesca et pietre<span class=\"line-break\"><br></span>mischie_______________________________________ 24<span class=\"line-break\"><br></span>Nella <em>Second</em>a stanza<span class=\"line-break\"><br></span>Per le quatro Istorie di Tabia a ragione di decidotto scudi l'una im-<span class=\"line-break\"><br></span>porta in tutto scudi __________________________________________________ 72<span class=\"line-break\"><br></span>Per haver rifatto le quatro armi delli Cantoni_________________________________ 8<span class=\"line-break\"><br></span>Per tre prospettive in d<em>ett</em>o fregio con deci putti p<em>er</em> ciasched'una_____________________ 45<span class=\"line-break\"><br></span>Per tutti li modelloni con la cornice finta d[i] stuc[c]h[i] co<em>n</em> int[a]gli et […]<span class=\"line-break\"><br></span>saccho intutto_________________________________________ 60</p><p></p><p>[1]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1#xywh=1267,338,158,82",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Duca&nbsp;(duke)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1#xywh=1051,428,186,93",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>pitture (paintings)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/1#xywh=335,1270,199,113",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>figure (figures)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2",
+      "type": "Canvas",
+      "height": 2204,
+      "width": 1564,
+      "label": {
+        "none": [
+          "ASRTNCUff1516180520f637v"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/b54d0ef85df2b957b114d5250881cfa6/full/213,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 213
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/b54d0ef85df2b957b114d5250881cfa6/full/1419,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1419,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/b54d0ef85df2b957b114d5250881cfa6",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/2",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 637v]</p><p>Per le quatro fenestre con Putti, Armi imprese Grotthesche pietre<span class=\"line-break\"><br></span>mischie a raggio di disdocto scudi l'una in tutti________________________72<span class=\"line-break\"><br></span>Per l' Induratura della metà dell[a] Cornice di stucco____________________________25<span class=\"line-break\"><br></span>Nella <em>Terz</em>a Stanza<span class=\"line-break\"><br></span>It<em>em</em> per le otto figure tra le quali c' n'e una no<em>n</em> finita che […] refalcata dei scudi<span class=\"line-break\"><br></span>nel fregio della d<em>ett</em>a Stanza a ragione di sei scudi l'una intutto__________________ 46<span class=\"line-break\"><br></span>It<em>em</em> per li venti quatro Putti nel d<em>ett</em>o fregio a ragione di 25 giulii l'uno scudi _________ 60<span class=\"line-break\"><br></span>It<em>em</em> per le quatro armi delle Cantonate in d<em>ett</em>o fregio a ragione di scudi 4 l'una________ 16<span class=\"line-break\"><br></span>It<em>em</em> per ornam<em>en</em>ti colonne cartelle Architrave cornice festoni con 4<span class=\"line-break\"><br></span>pari a ragione di venti scudi per facciata intutto______________________________ 80<span class=\"line-break\"><br></span>It<em>em</em> per le quatro Tempes di Salamone l'uno per l'altro a ragioni<span class=\"line-break\"><br></span>di decidotto scudi l'uno scudi _____________________________________________________72<span class=\"line-break\"><br></span>It<em>em</em> per sette migliara d'oro messe nella Cornice di stucho con il quadro<span class=\"line-break\"><br></span>della volta di d<em>ett</em>a stanza a scudi 16 il migliaro che cosi furno d'accordo in tu[t]to importa___112<span class=\"line-break\"><br></span>Quarta Stanza c[on] Pittura a olio<span class=\"line-break\"><br></span>Per 24 figure cioe l'ore d[e]l giorno et della notte a olio a ragion<span class=\"line-break\"><br></span>di scudi otto l'una in tutto scudi_________________________________________200<span class=\"line-break\"><br></span>Per le otto Istorie di musiche a olio in d<em>ett</em>o fregio a ragione di scudi quaranta<span class=\"line-break\"><br></span>per ciascheduna intutto scudi___________________________________________320<span class=\"line-break\"><br></span>Per li adornamenti di d<em>ett</em>o fregio a olio cioe colonne renghiere Bala-<span class=\"line-break\"><br></span>ustri Cornice Modilioni et la fattura sopra l'oro nel stato che si retrova 80<span class=\"line-break\"><br></span>Per sette migliara d'oro messe nel fregio et Cornice aver di a ragione<span class=\"line-break\"><br></span>di scudi 16 il migl[ia]ro in[t]utto importa______________________________________ 112<span class=\"line-break\"><br></span>Per il Carro del sole fatta in d<em>ett</em>a stanza nella volta a olio nel stato<span class=\"line-break\"><br></span>che</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3",
+      "type": "Canvas",
+      "height": 2192,
+      "width": 1624,
+      "label": {
+        "none": [
+          "ASRTNCUff1516180520f657r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/a5f48228677a2b7511bd8b41884be19f/full/222,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 222
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/a5f48228677a2b7511bd8b41884be19f/full/1482,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1482,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/a5f48228677a2b7511bd8b41884be19f",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 657r]</p><p>che si ritrova d'accordo scudi 40 vale scudi__________________________________________40<span class=\"line-break\"><br></span>Altri lavori fatti in d<em>ett</em>o Palazzo<span class=\"line-break\"><br></span>Et p<em>rim</em>a per la fattura del strambecco retovatuta&nbsp;<sup>[2]</sup> nell arma et nella volta<span class=\"line-break\"><br></span>della sala scudi 10<span class=\"line-break\"><br></span>It<em>em</em> per fenestre 12 tra grande et picioli finte invetrate l'una p<em>er</em> l'altra<span class=\"line-break\"><br></span>a ragione di 25 giulii l'una intutto 30<span class=\"line-break\"><br></span>It<em>em</em> per diverse pitture de mattoni finti scudi ______________________________________10<span class=\"line-break\"><br></span>It<em>em</em> per una cornice lunga 12 palmi indorata a oro brunita co<em>n</em><span class=\"line-break\"><br></span>fregio fatto a fogliame e graffato__________________________________________________ 25<span class=\"line-break\"><br></span>It<em>em</em> per haver dato l'olio terra gialla et Minio in parte della<span class=\"line-break\"><br></span>Cornice cioe stucchi della <em>second</em>a, <em>terz</em>a et <em>quart</em>a Stanza______________________________ 12<span class=\"line-break\"><br></span>Io Giovanni Baglioni sottoscrivo la p<em>rese</em>nte et da me si-<span class=\"line-break\"><br></span>gillata<span class=\"line-break\"><br></span>Io Marc'Ant.o Bassetti Veronese affermo tutte l'Infr<em>ascritt</em>e partite essendo<span class=\"line-break\"><br></span>la p<em>rese</em>nte sottoscritta et sigillata dall'Ill Sig.e Cavalier Baglioni<span class=\"line-break\"><br></span>Principe della n<em>ost</em>ra Accademia, conforme alli statuti per<span class=\"line-break\"><br></span>li atti del Spannochia not<em>ari</em>o Cap<em>ito</em>lino sotto li 28 maggio 1618<span class=\"line-break\"><br></span>Io Marc'Antonio Bassetti<span class=\"line-break\"><br></span>sop<em>radic</em>to affermo q<em>uan</em>to Sopra.</p><p></p><p>[2]&nbsp;Uncertain.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/3#xywh=173,1318,254,134",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Principe (principe)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4",
+      "type": "Canvas",
+      "height": 2216,
+      "width": 1546,
+      "label": {
+        "none": [
+          "ASRTNCUff1516180520f657v"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/142f35a98048048d858882382e9124a0/full/209,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 209
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/142f35a98048048d858882382e9124a0/full/1395,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1395,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/142f35a98048048d858882382e9124a0",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 657v]</p><p>Stima fatta da me Marc'Ant.o Bassetti<span class=\"line-break\"><br></span>Veronese Pittore<span class=\"line-break\"><br></span>Per<span class=\"line-break\"><br></span>Il Sig. Anibale Durante Pictore<span class=\"line-break\"><br></span>Io Anibale Durante ho riceuto la igualle<sup>[3]</sup> della Copia retro<span class=\"line-break\"><br></span>schrita de la quale ne fo quietanzo et in fede Io Luchetto manu</p><p></p><p>[3]&nbsp;For \"uguale\". Uncertain.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516180528/canvas/4#xywh=627,1103,259,119",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>quietanzo (quittance)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

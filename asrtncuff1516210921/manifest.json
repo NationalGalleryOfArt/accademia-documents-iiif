@@ -1,331 +1,331 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1516210921"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 15 Pt. 3 Vol. 89 fols. 787r-v"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1621"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Erasto Spannocchia"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Meeting, quittance and obligation"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Church of Santi Luca e Martina (San Luca and Santa Martina); Roman Forum (Campo Vaccino); Rome"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Cinzio Cambio; Giacomo Castagnola; Cosimo Grifoni; Francesco Stati; Polidoro Mariottini"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Latin"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  Giacomo Castagnola, chaplain of the church of San Luca and Santa Martina, declares that he received all the goods listed in the document from the Congregazione dei Pittori e Scultori. A copy of the document is handed over to the notary. Castagnola promises to take care of the goods and to give them back to the Congregazione when requested.    [Italian version]  Giacomo Castagnola, cappellano della chiesa di San Luca e Santa Martina, dichiara di avere ricevuto dalla congregazione dei pittori e scultori tutti i beni contenuti nel foglio la cui copia viene consegnata al notaio. Giacomo promette di custodire tali beni e di restituirli alla congregazione ad ogni sua richiesta."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Goods",
-                    "Painter",
-                    "Heir",
-                    "Sculptor",
-                    "Cameral obligation",
-                    "Obligation",
-                    "Treasurer",
-                    "Notary",
-                    "Chaplain"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25/full/231,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 231
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1",
-            "type": "Canvas",
-            "height": 2162,
-            "width": 1660,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516210921f787r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25/full/231,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 231
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25/full/1536,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1536,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 787r]</p><p>Cong<em>regati</em>o sive Soc<em>iet</em>as DD<span class=\"line-break\"><br></span>Pictor<em>um</em>, et Sculptor<em>um</em> de Urbe<span class=\"line-break\"><br></span>Quiet<em>anti</em>a et ob<em>ligati</em>o<span class=\"line-break\"><br></span><span class=\"line-break\"><br></span>Die vigesima prima septembris 1621 <sup>[1]</sup>&nbsp;</p><p></p><p>R. D. <a href=\"https://www.nga.gov/accademia/it/persons/giacomo-castagnola.html\">Iacobus Castagnola</a> fil<em>ius</em> D. Gregorii Castagnola<em>e</em> de Ra-<span class=\"line-break\"><br></span>pallo Ianuen<em>sis</em> Dioc<em>es</em>is Cappellanus <a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">Eccl</a><em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">es</a></em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">iae S.S. Luca</a><em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\"><span class=\"line-break\"><br></span>et Martina</a><em><a href=\"https://www.nga.gov/accademia/it/places/church-santi-luca-e-martina.html\">e</a></em> de Urbe DD. Sculptor<em>um</em> et Pictorum<span class=\"line-break\"><br></span>sponte etc. omni etc. factus&nbsp;<sup>[2]</sup> et habuisse, et recepisse<span class=\"line-break\"><br></span>à Ven<em>erabili</em> Congregatione DD. Pictor<em>um</em> et Sculptoru<em>m</em><span class=\"line-break\"><br></span>de Urbe absen<em>ti</em> p<em>er</em> manus tam [...]&nbsp;<sup>[3]</sup> DD. <a href=\"https://www.nga.gov/accademia/it/persons/francesco-stati.html\">Francisci<span class=\"line-break\"><br></span>Stati</a> florentini P<em>rim</em>i Rectoris d<em>icta</em>e Cong<em>regatio</em>nis et <a href=\"https://www.nga.gov/accademia/it/persons/polidoro-mariottini.html\">Polidoro<span class=\"line-break\"><br></span>Mariottino</a> eiusd<em>em</em> Congreg<em>atio</em>nis Camerario p. de Colle<span class=\"line-break\"><br></span>Valdalsi in Hetruria p<em>er</em> me cognitis p<em>rese</em>ntibus etc.<span class=\"line-break\"><br></span>omnia bona [res] et massaritias ad notatas conten-<span class=\"line-break\"><br></span>tas et descriptas in folio cuius copia mihi not<em>ari</em>o<span class=\"line-break\"><br></span>tradiderunt ad eff<em>ectu</em>m hic inserendi tenoris etc. de<span class=\"line-break\"><br></span>quibus omnibus exc<em>eptio</em>ni etc. speiq<em>ue</em> etc. et g<em>enera</em>l<em>ite</em>r etc. renuncia-<span class=\"line-break\"><br></span>vit etc. quietavit etc. per pactum etc. Qu<em>a</em>e bona<span class=\"line-break\"><br></span>d<em>ictu</em>s R. D. Iacobus custodire promisit, ac reddere,<span class=\"line-break\"><br></span>et restituere d<em>ict</em>a<em>e</em> Ven<em>erabi</em>li Congreg<em>atio</em>ni absen<em>ti</em>, et pro ea d<em>ict</em>i [D.]<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/it/persons/francesco-stati.html\">Francisco</a> et <a href=\"https://www.nga.gov/accademia/it/persons/polidoro-mariottini.html\">Polidoro</a> quibus s<em>upr</em>a no<em>m</em>i<em>ni</em>bus meq<em>ue</em> etc. p<em>rese</em>ntibus etc.<span class=\"line-break\"><br></span>ad omnem beneplacitu<em>m</em> et simplicem requisitione[<em>m</em>]</p><p></p><p>[1]&nbsp;For marginalia see document for 1622/07/13</p><p>[2]&nbsp;Uncertain. The letter \"t\" lacks the horizontal stroke.</p><p>[3]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1#xywh=843,354,336,119",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Cappellanus (chaplain)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1#xywh=1018,884,334,131",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Camerario (treasurer)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1#xywh=1486,1191,112,69",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>not<em>ari</em>o (notary)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2",
-            "type": "Canvas",
-            "height": 3000,
-            "width": 2100,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516210921f787v"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/24dd9da78a5fa8252c1b4299cf23be0e/full/210,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 210
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/24dd9da78a5fa8252c1b4299cf23be0e/full/1400,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1400,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/24dd9da78a5fa8252c1b4299cf23be0e",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 787v]</p><p>d<em>icta</em>e Ven<em>erabi</em>lis Congregationis liberè etc. alias etc. et<em>iam</em><span class=\"line-break\"><br></span>ad omnia alia damna etc. de quib<em>us</em> etc. absq<em>ue</em> etc. quod etc.<span class=\"line-break\"><br></span>proquibus etc. se etc. hered<em>es</em> etc. bona etc. iura etc. obligavit etc.<span class=\"line-break\"><br></span>in ampliori forma Cam<em>e</em>r<em>a</em>e A<em>posto</em>lica<em>e</em> cum cl<em>ausul</em>is etc. citra etc.<span class=\"line-break\"><br></span>renunciando etc. consentien<em>do</em> etc. unica etc. et ita tac[to<span class=\"line-break\"><br></span>p]ectore more etc. iuravit etc. sup<em>er</em> quibus etc. Ac-<span class=\"line-break\"><br></span>tum Rom<em>a</em>e in d<em>icta</em>e <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Ecclesia S</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">anc</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">tor</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">um</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\"> Luca</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\"> et Marti-<span class=\"line-break\"><br></span>na</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a></em> ^In <a href=\"https://www.nga.gov/accademia/en/places/roman-forum.html\">Campo Bovario</a>^ p<em>rese</em>ntibus etc. <a href=\"https://www.nga.gov/accademia/en/persons/cinzio-cambio.html\">Cinthio q. Michaelis Angeli Cam-<span class=\"line-break\"><br></span>bii</a> de Cassia spolet<em>ana</em>e Dioc<em>es</em>is et <a href=\"https://www.nga.gov/accademia/en/persons/cosimo-grifoni.html\">Cosimo q. Domi-<span class=\"line-break\"><br></span>nici Grifoni</a> de Castro loci Valdarni Aretinae<span class=\"line-break\"><br></span>Dioc<em>es</em>is Testibus etc.<span class=\"line-break\"><br></span>Iosephus Pas.s etc.</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1516210921"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 15 Pt. 3 Vol. 89 fols. 787r-v"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1621"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Erasto Spannocchia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Meeting, quittance and obligation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Church of Santi Luca e Martina (San Luca and Santa Martina); Roman Forum (Campo Vaccino); Rome"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Cinzio Cambio; Giacomo Castagnola; Cosimo Grifoni; Francesco Stati; Polidoro Mariottini"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Latin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  Giacomo Castagnola, chaplain of the church of San Luca and Santa Martina, declares that he received all the goods listed in the document from the Congregazione dei Pittori e Scultori. A copy of the document is handed over to the notary. Castagnola promises to take care of the goods and to give them back to the Congregazione when requested.    [Italian version]  Giacomo Castagnola, cappellano della chiesa di San Luca e Santa Martina, dichiara di avere ricevuto dalla congregazione dei pittori e scultori tutti i beni contenuti nel foglio la cui copia viene consegnata al notaio. Giacomo promette di custodire tali beni e di restituirli alla congregazione ad ogni sua richiesta."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Goods",
+          "Painter",
+          "Heir",
+          "Sculptor",
+          "Cameral obligation",
+          "Obligation",
+          "Treasurer",
+          "Notary",
+          "Chaplain"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25/full/231,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 231
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1",
+      "type": "Canvas",
+      "height": 2162,
+      "width": 1660,
+      "label": {
+        "none": [
+          "ASRTNCUff1516210921f787r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25/full/231,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 231
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25/full/1536,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1536,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/b70d0460615ee5ead04c50396d220e25",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 787r]</p><p>Cong<em>regati</em>o sive Soc<em>iet</em>as DD<span class=\"line-break\"><br></span>Pictor<em>um</em>, et Sculptor<em>um</em> de Urbe<span class=\"line-break\"><br></span>Quiet<em>anti</em>a et ob<em>ligati</em>o<span class=\"line-break\"><br></span><span class=\"line-break\"><br></span>Die vigesima prima septembris 1621 <sup>[1]</sup>&nbsp;</p><p></p><p>R. D. Iacobus Castagnola fil<em>ius</em> D. Gregorii Castagnola<em>e</em> de Ra-<span class=\"line-break\"><br></span>pallo Ianuen<em>sis</em> Dioc<em>es</em>is Cappellanus Eccl<em>es</em>iae S.S. Luca<em>e</em><span class=\"line-break\"><br></span>et Martina<em>e</em> de Urbe DD. Sculptor<em>um</em> et Pictorum<span class=\"line-break\"><br></span>sponte etc. omni etc. factus&nbsp;<sup>[2]</sup> et habuisse, et recepisse<span class=\"line-break\"><br></span>à Ven<em>erabili</em> Congregatione DD. Pictor<em>um</em> et Sculptoru<em>m</em><span class=\"line-break\"><br></span>de Urbe absen<em>ti</em> p<em>er</em> manus tam [...]&nbsp;<sup>[3]</sup> DD. Francisci<span class=\"line-break\"><br></span>Stati florentini P<em>rim</em>i Rectoris d<em>icta</em>e Cong<em>regatio</em>nis et Polidoro<span class=\"line-break\"><br></span>Mariottino eiusd<em>em</em> Congreg<em>atio</em>nis Camerario p. de Colle<span class=\"line-break\"><br></span>Valdalsi in Hetruria p<em>er</em> me cognitis p<em>rese</em>ntibus etc.<span class=\"line-break\"><br></span>omnia bona [res] et massaritias ad notatas conten-<span class=\"line-break\"><br></span>tas et descriptas in folio cuius copia mihi not<em>ari</em>o<span class=\"line-break\"><br></span>tradiderunt ad eff<em>ectu</em>m hic inserendi tenoris etc. de<span class=\"line-break\"><br></span>quibus omnibus exc<em>eptio</em>ni etc. speiq<em>ue</em> etc. et g<em>enera</em>l<em>ite</em>r etc. renuncia-<span class=\"line-break\"><br></span>vit etc. quietavit etc. per pactum etc. Qu<em>a</em>e bona<span class=\"line-break\"><br></span>d<em>ictu</em>s R. D. Iacobus custodire promisit, ac reddere,<span class=\"line-break\"><br></span>et restituere d<em>ict</em>a<em>e</em> Ven<em>erabi</em>li Congreg<em>atio</em>ni absen<em>ti</em>, et pro ea d<em>ict</em>i [D.]<span class=\"line-break\"><br></span>Francisco et Polidoro quibus s<em>upr</em>a no<em>m</em>i<em>ni</em>bus meq<em>ue</em> etc. p<em>rese</em>ntibus etc.<span class=\"line-break\"><br></span>ad omnem beneplacitu<em>m</em> et simplicem requisitione[<em>m</em>]</p><p></p><p>[1]&nbsp;For marginalia see document for 1622/07/13</p><p>[2]&nbsp;Uncertain. The letter \"t\" lacks the horizontal stroke.</p><p>[3]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1#xywh=843,354,336,119",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Cappellanus (chaplain)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1#xywh=1018,884,334,131",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Camerario (treasurer)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/1#xywh=1486,1191,112,69",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>not<em>ari</em>o (notary)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2100,
+      "label": {
+        "none": [
+          "ASRTNCUff1516210921f787v"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/24dd9da78a5fa8252c1b4299cf23be0e/full/210,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 210
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/24dd9da78a5fa8252c1b4299cf23be0e/full/1400,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1400,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/24dd9da78a5fa8252c1b4299cf23be0e",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516210921/canvas/2",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 787v]</p><p>d<em>icta</em>e Ven<em>erabi</em>lis Congregationis liberè etc. alias etc. et<em>iam</em><span class=\"line-break\"><br></span>ad omnia alia damna etc. de quib<em>us</em> etc. absq<em>ue</em> etc. quod etc.<span class=\"line-break\"><br></span>proquibus etc. se etc. hered<em>es</em> etc. bona etc. iura etc. obligavit etc.<span class=\"line-break\"><br></span>in ampliori forma Cam<em>e</em>r<em>a</em>e A<em>posto</em>lica<em>e</em> cum cl<em>ausul</em>is etc. citra etc.<span class=\"line-break\"><br></span>renunciando etc. consentien<em>do</em> etc. unica etc. et ita tac[to<span class=\"line-break\"><br></span>p]ectore more etc. iuravit etc. sup<em>er</em> quibus etc. Ac-<span class=\"line-break\"><br></span>tum Rom<em>a</em>e in d<em>icta</em>e Ecclesia S<em>anc</em>tor<em>um</em> Luca<em>e</em> et Marti-<span class=\"line-break\"><br></span>na<em>e</em> ^In Campo Bovario^ p<em>rese</em>ntibus etc. Cinthio q. Michaelis Angeli Cam-<span class=\"line-break\"><br></span>bii de Cassia spolet<em>ana</em>e Dioc<em>es</em>is et Cosimo q. Domi-<span class=\"line-break\"><br></span>nici Grifoni de Castro loci Valdarni Aretinae<span class=\"line-break\"><br></span>Dioc<em>es</em>is Testibus etc.<span class=\"line-break\"><br></span>Iosephus Pas.s etc.</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

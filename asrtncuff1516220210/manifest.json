@@ -1,354 +1,354 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1516220210"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 15 Pt. 1 Vol. 91 fols. 627r-v"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1622"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Erasto Spannocchia"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Quittance"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Roman Forum (Campo Vaccino); Parione (Rione); Church of Santi Luca e Martina (San Luca and Santa Martina)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Antiveduto Gramatica; Giacomo Galli; Paolo Savelli; Marcantonio Mangiotti; Michele Baldesi; Giovanni Baglione; Giovanni Battista Ricci; Marco Antonio Amati"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Latin"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  Antiveduto Gramatica, treasurer of the Accademia di San Luca, receives 11 scudi from Giacomo Galli. The payment is the remainder of 31 scudi owed by Galli for an appraisal of work he completed for the Savelli family. Gramatica receives the 11 scudi and gives quittance.    [Italian version]  Antiveduto Gramatica, camerario dell'Accademia di San Luca, riceve da Giacomo Galli 11 scudi. Essi sono il resto di 31 scudi dovuti da Giacomo a causa di una stima di lavori fatti da lui per la famiglia Savelli. Antiveduto Grammatica riceve gli 11 scudi e ne fa quietanza."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Painter",
-                    "Sculptor",
-                    "Work (labor)",
-                    "Pact",
-                    "Quittance",
-                    "Treasurer",
-                    "Appraisal",
-                    "Appraiser",
-                    "Act",
-                    "Framers and gilders"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d/full/225,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 225
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1",
-            "type": "Canvas",
-            "height": 2139,
-            "width": 1606,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516220210f627r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d/full/225,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 225
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d/full/1502,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1502,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 627r]</p><p>Quiet<em>anti</em>a Pro D. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iacobo Gallo</a><span class=\"line-break\"><br></span>Die Decima februarii 1622</p><p></p><p>Mag.cus D. <a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">Antivedutus Grammatica </a>q. Imperialis Rom<em>anu</em>s<span class=\"line-break\"><br></span>Camerarius DD. Pictor<em>um</em>, et Sculptor<em>um</em> in <a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">Ecclesia<span class=\"line-break\"><br></span>Sancti Luc</a><em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">a</a></em><a href=\"https://www.nga.gov/accademia/en/places/church-santi-luca-e-martina.html\">e</a> de Urbe in <a href=\"https://www.nga.gov/accademia/en/places/roman-forum.html\">Campo Bovario</a> sponte etc.<span class=\"line-break\"><br></span>omni etc. nunc in mei etc. habuit, et recepit à D. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iaco-<span class=\"line-break\"><br></span>bo Gallo</a> q. Salvatoris Rom<em>anu</em>s induratore et pictore<span class=\"line-break\"><br></span>p<em>er</em> me etc. cog<em>nit</em>o p<em>rese</em>nte etc. scuta [undec]im m<em>one</em>ta<em>e</em> Iulior<em>um</em> decem<span class=\"line-break\"><br></span>pro scuto pro residuo scutor<em>um</em> triginta unius m<em>one</em>ta<em>e</em><span class=\"line-break\"><br></span>p<em>er</em> ipsu<em>m</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iacobum</a> debit<em>orum</em> pro extimatione labore-<span class=\"line-break\"><br></span>rior<em>um</em> p<em>er</em> ip<em>su</em>m D. Iacubum fact<em>is</em> Exc.mo D. <a href=\"https://www.nga.gov/accademia/en/persons/paolo-savelli.html\">Principi<span class=\"line-break\"><br></span>Paulo Sabello</a> de anno . . .<span class=\"line-break\"><br></span>iuxta obligationem ab ipso D. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iacobo</a> ut dixit<span class=\"line-break\"><br></span>facta de anno 1619 seu etc. per acta mei etc.<span class=\"line-break\"><br></span>ad qua<em>e</em> etc. et Reliqua scuta viginti d<em>ictu</em>s D. <a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iaco-<span class=\"line-break\"><br></span>bus</a> fassus fuit solvisse hoc modo V<em>ide</em>l<em>ice</em>t scut<em>a</em><span class=\"line-break\"><br></span>quindecim Cappellano Ecclesia<em>e</em> S<em>anc</em>ti Luca<em>e</em> de<span class=\"line-break\"><br></span>ordine D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-baglione.html\">Io: Equitis Balleoni</a> tunc Principis d<em>ictu</em>or<em>um</em> DD.<span class=\"line-break\"><br></span>Pictor<em>um</em> et Sculptor<em>um</em>, et scuta quinq<em>ue</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/giovanni-battista-ricci.html\">Ioanni<span class=\"line-break\"><br></span>Bap'ta</a><em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-battista-ricci.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/persons/giovanni-battista-ricci.html\"> Riccio</a> Stimatori, qua<em>e</em> scuta Undecim</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=1013,693,271,86",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>induratore (gilder)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=1315,707,210,70",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>pictore (painter)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=1004,933,344,70",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>extimatione (appraisal)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-5",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=683,1797,311,98",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Stimatori (appraisar)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2",
-            "type": "Canvas",
-            "height": 2144,
-            "width": 1534,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516220210f627v"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/878b7677651f80a3de97df99c90f0fbc/full/214,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 214
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/878b7677651f80a3de97df99c90f0fbc/full/1431,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1431,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/878b7677651f80a3de97df99c90f0fbc",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 627v]</p><p>d<em>ictu</em>s D. <a href=\"https://www.nga.gov/accademia/en/persons/antiveduto-gramatica.html\">Antivedutus</a> quo s<em>upr</em>a no<em>m</em>i<em>n</em>e ad se traxit<span class=\"line-break\"><br></span>in tot Iuliis, et testonibus argenteis, et<span class=\"line-break\"><br></span>tracta etc. de quibus etc. exc<em>eptio</em>ni etc. ad cauthelam<span class=\"line-break\"><br></span>renunciavit etc. quietavit etc. p<em>er</em> pactu<em>m</em> etc. et<span class=\"line-break\"><br></span>ita tactis etc. Iuravit etc. sup<em>er</em> quibus etc. Actum<span class=\"line-break\"><br></span>Roma<em>e</em> in <a href=\"https://www.nga.gov/accademia/en/places/Parione_Rione.html\">Regione Parionis</a> in Apotheca d<em>ict</em>i D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/giacomo-galli.html\">Iacobi</a> p<em>rese</em>ntibus etc. D. <a href=\"https://www.nga.gov/accademia/en/persons/marcantonio-mangiotti.html\">Marco Antonio<span class=\"line-break\"><br></span>Mangiotti</a> fil<em>io</em> Claudii Mangiotti Rom<em>an</em>o et D.<span class=\"line-break\"><br></span><a href=\"https://www.nga.gov/accademia/en/persons/michele-baldesi.html\">Michaele q. Simonis Baldesii</a> Rom<em>an</em>o Testibus etc.<span class=\"line-break\"><br></span>Iosephus Palmuctius etc.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2#xywh=1287,595,212,87",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Actum (act)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1516220210"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 15 Pt. 1 Vol. 91 fols. 627r-v"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1622"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Erasto Spannocchia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Quittance"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Roman Forum (Campo Vaccino); Parione (Rione); Church of Santi Luca e Martina (San Luca and Santa Martina)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Antiveduto Gramatica; Giacomo Galli; Paolo Savelli; Marcantonio Mangiotti; Michele Baldesi; Giovanni Baglione; Giovanni Battista Ricci; Marco Antonio Amati"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Latin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  Antiveduto Gramatica, treasurer of the Accademia di San Luca, receives 11 scudi from Giacomo Galli. The payment is the remainder of 31 scudi owed by Galli for an appraisal of work he completed for the Savelli family. Gramatica receives the 11 scudi and gives quittance.    [Italian version]  Antiveduto Gramatica, camerario dell'Accademia di San Luca, riceve da Giacomo Galli 11 scudi. Essi sono il resto di 31 scudi dovuti da Giacomo a causa di una stima di lavori fatti da lui per la famiglia Savelli. Antiveduto Grammatica riceve gli 11 scudi e ne fa quietanza."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Painter",
+          "Sculptor",
+          "Work (labor)",
+          "Pact",
+          "Quittance",
+          "Treasurer",
+          "Appraisal",
+          "Appraiser",
+          "Act",
+          "Framers and gilders"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d/full/225,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 225
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1",
+      "type": "Canvas",
+      "height": 2139,
+      "width": 1606,
+      "label": {
+        "none": [
+          "ASRTNCUff1516220210f627r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d/full/225,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 225
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d/full/1502,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1502,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/58ff42a213ecdaef9709e5d91017032d",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 627r]</p><p>Quiet<em>anti</em>a Pro D. Iacobo Gallo<span class=\"line-break\"><br></span>Die Decima februarii 1622</p><p></p><p>Mag.cus D. Antivedutus Grammatica q. Imperialis Rom<em>anu</em>s<span class=\"line-break\"><br></span>Camerarius DD. Pictor<em>um</em>, et Sculptor<em>um</em> in Ecclesia<span class=\"line-break\"><br></span>Sancti Luc<em>a</em>e de Urbe in Campo Bovario sponte etc.<span class=\"line-break\"><br></span>omni etc. nunc in mei etc. habuit, et recepit à D. Iaco-<span class=\"line-break\"><br></span>bo Gallo q. Salvatoris Rom<em>anu</em>s induratore et pictore<span class=\"line-break\"><br></span>p<em>er</em> me etc. cog<em>nit</em>o p<em>rese</em>nte etc. scuta [undec]im m<em>one</em>ta<em>e</em> Iulior<em>um</em> decem<span class=\"line-break\"><br></span>pro scuto pro residuo scutor<em>um</em> triginta unius m<em>one</em>ta<em>e</em><span class=\"line-break\"><br></span>p<em>er</em> ipsu<em>m</em> D. Iacobum debit<em>orum</em> pro extimatione labore-<span class=\"line-break\"><br></span>rior<em>um</em> p<em>er</em> ip<em>su</em>m D. Iacubum fact<em>is</em> Exc.mo D. Principi<span class=\"line-break\"><br></span>Paulo Sabello de anno . . .<span class=\"line-break\"><br></span>iuxta obligationem ab ipso D. Iacobo ut dixit<span class=\"line-break\"><br></span>facta de anno 1619 seu etc. per acta mei etc.<span class=\"line-break\"><br></span>ad qua<em>e</em> etc. et Reliqua scuta viginti d<em>ictu</em>s D. Iaco-<span class=\"line-break\"><br></span>bus fassus fuit solvisse hoc modo V<em>ide</em>l<em>ice</em>t scut<em>a</em><span class=\"line-break\"><br></span>quindecim Cappellano Ecclesia<em>e</em> S<em>anc</em>ti Luca<em>e</em> de<span class=\"line-break\"><br></span>ordine D. Io: Equitis Balleoni tunc Principis d<em>ictu</em>or<em>um</em> DD.<span class=\"line-break\"><br></span>Pictor<em>um</em> et Sculptor<em>um</em>, et scuta quinq<em>ue</em> D. Ioanni<span class=\"line-break\"><br></span>Bap'ta<em>e</em> Riccio Stimatori, qua<em>e</em> scuta Undecim</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=1013,693,271,86",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>induratore (gilder)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=1315,707,210,70",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>pictore (painter)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=1004,933,344,70",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>extimatione (appraisal)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1/annopage-2/anno-5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/1#xywh=683,1797,311,98",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Stimatori (appraisar)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2",
+      "type": "Canvas",
+      "height": 2144,
+      "width": 1534,
+      "label": {
+        "none": [
+          "ASRTNCUff1516220210f627v"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/878b7677651f80a3de97df99c90f0fbc/full/214,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 214
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/878b7677651f80a3de97df99c90f0fbc/full/1431,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1431,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/878b7677651f80a3de97df99c90f0fbc",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 627v]</p><p>d<em>ictu</em>s D. Antivedutus quo s<em>upr</em>a no<em>m</em>i<em>n</em>e ad se traxit<span class=\"line-break\"><br></span>in tot Iuliis, et testonibus argenteis, et<span class=\"line-break\"><br></span>tracta etc. de quibus etc. exc<em>eptio</em>ni etc. ad cauthelam<span class=\"line-break\"><br></span>renunciavit etc. quietavit etc. p<em>er</em> pactu<em>m</em> etc. et<span class=\"line-break\"><br></span>ita tactis etc. Iuravit etc. sup<em>er</em> quibus etc. Actum<span class=\"line-break\"><br></span>Roma<em>e</em> in Regione Parionis in Apotheca d<em>ict</em>i D.<span class=\"line-break\"><br></span>Iacobi p<em>rese</em>ntibus etc. D. Marco Antonio<span class=\"line-break\"><br></span>Mangiotti fil<em>io</em> Claudii Mangiotti Rom<em>an</em>o et D.<span class=\"line-break\"><br></span>Michaele q. Simonis Baldesii Rom<em>an</em>o Testibus etc.<span class=\"line-break\"><br></span>Iosephus Palmuctius etc.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516220210/canvas/2#xywh=1287,595,212,87",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Actum (act)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

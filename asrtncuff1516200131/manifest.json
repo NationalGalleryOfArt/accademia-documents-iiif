@@ -1,485 +1,485 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/manifest.json",
-    "type": "Manifest",
-    "label": {
-        "none": [
-            "ASRTNCUff1516200131"
-        ]
-    },
-    "metadata": [
-        {
-            "label": {
-                "none": [
-                    "Archive"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Archivio di Stato di Roma (ASR)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Volume"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Uff. 15 Pt. 1 Vol. 83 fols. 300r-v, 301r"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Date"
-                ]
-            },
-            "value": {
-                "none": [
-                    "1620"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Collection"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Trenta Notai Capitolini (TNC)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Notary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Erasto Spannocchia"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Document type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Possession"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Places"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Roman Forum (Campo Vaccino); Rome; Church of Santa Martina; Church of Santa Maria di Loreto; Church of San Nicola dei Lorenesi"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Associated name"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Antonio Mancini; Marco Antonio Amati; Santi Ghetti; Silvestro Spada; Michele Timotei; Francesco Zucco"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Language of document"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Latin"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Summary"
-                ]
-            },
-            "value": {
-                "none": [
-                    "[English version]  Antonio Mancini, executor of the Curia Capitolina, has a writ of execution to allow the Confraternita di San Luca to take possession of the church of Santa Martina. The church of Santa Martina, together with all its goods, has been given over to the Confraternita. Consequently, Marco Antonio Amati, procurator, takes possession of a house by performing the acts of possession. Santi Ghetti, tenant, recognizes the Confraternita as possessor and promises to pay the rent.    [Italian version]  Antonio Mancini, esecutore della Curia capitolina, ha un mandato per immettere la confraternità di San Luca nella chiesa di Santa Martina. La chiesa di Santa Martina è stata concessa in possesso alla confraternità di San Luca insieme a tutti i suoi beni. Il procuratore Marco Antonio Amati prende dunque possesso di una casa, attraverso gli atti possessori. Santi Ghetti, inquilino, riconosce come possessore la confraternita di San Luca, e promette di pagare la pensione."
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Key terms"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Rent",
-                    "Goods",
-                    "Painter",
-                    "Procurator",
-                    "Sculptor",
-                    "Confraternity",
-                    "Society",
-                    "Sodality",
-                    "Obligation",
-                    "Salary",
-                    "Possession",
-                    "Tenant",
-                    "Stone carver",
-                    "Executor",
-                    "Mandate",
-                    "Vicar general",
-                    "Debit",
-                    "Act",
-                    "Curia Capitolina"
-                ]
-            }
-        }
-    ],
-    "rights": "Archivio di Stato di Roma (ASR)",
-    "thumbnail": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb/full/229,300/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "height": 300,
-            "width": 229
-        }
-    ],
-    "items": [
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1",
-            "type": "Canvas",
-            "height": 2156,
-            "width": 1648,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516200131f300r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb/full/229,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 229
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb/full/1529,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1529,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 300r]</p><p>Possessiones Pro Ven<em>erabile</em> Soci<em>eta</em>t<em>e</em> S<em>anc</em>ti Luca<em>e</em> Pictorum, et [Scul]toru<em>m</em> Urbis<span class=\"line-break\"><br></span>Insol<em>idu</em>m cu<em>m</em> D. Silvestro Spada Not<em>ari</em>o Vicarii</p><p></p><p>Die 31 Ianuarii 1620</p><p></p><p><a href=\"https://www.nga.gov/accademia/en/persons/antonio-mancini.html\">Antonius Mancinus</a> Firmanus Curia<em>e</em> Capitolii exécutor pra<em>e</em>[ ...]<sup>[1]</sup>-<span class=\"line-break\"><br></span>onibus habens mandatum de immictendo DD. Pictores et<span class=\"line-break\"><br></span>Sculptores Urbis, vice eorum Confraternitatem Sancti Luca<em>e</em><span class=\"line-break\"><br></span>in Ecclesia Sancta<em>e</em> Martina<em>e</em> ad <a href=\"https://www.nga.gov/accademia/en/places/roman-forum.html\">forum boarium</a>, qua<em>e</em> cu<em>m</em><span class=\"line-break\"><br></span>omnibus illius bonis etc. al<em>ia</em>s auc<em>torita</em>te Ap<em>ostoli</em>ca pr<em>a</em>evia tamen ab[di]-<span class=\"line-break\"><br></span>catione Cura<em>e</em> Animarum, et oneris P[a]rrocchialis à d<em>ict</em>a <a href=\"https://www.nga.gov/accademia/en/places/Church_of_San_Nicola_dei_Lorenesi.html\">Ecc[le]-<span class=\"line-break\"><br></span>sia ad Sancti Nicolai</a>, et Sancti Laurentioli resp<em>ectiv</em>e eccle-<span class=\"line-break\"><br></span>sias p<em>er</em> liberam resignationem R. D. <a href=\"https://www.nga.gov/accademia/en/persons/michele-timotei.html\">Michaelis Thimot[...]</a><span class=\"line-break\"><br></span>tunc ipsius ecc[le]sia<em>e</em> S<em>anc</em>ta<em>e</em> Martina<em>e</em> Parrochi facta eis[dem]<span class=\"line-break\"><br></span>DD. Pictoribus, et Sculptoribus concessa fuit in posses-<span class=\"line-break\"><br></span>sionem omnium, et singulorum d<em>ic</em>ta<em>e</em> Ecclesia<em>e</em> Sancta<em>e</em> Mar[tina<em>e</em>]<span class=\"line-break\"><br></span>bonorum etiam quo ad usu<em>m</em>fructum nuper p<em>ro</em> obitum d<em>ict</em>i [R.]<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/michele-timotei.html\">Michaelis</a> cum proprietate consolidatum sub hodiern[a]<span class=\"line-break\"><br></span>die obtentum à R. p. D. Trivultio Ill.mi, et R.mi D. Cardina[lis]<span class=\"line-break\"><br></span>Vicarii in Civilibus l<em>ocum</em>t<em>enent</em>e p<em>er</em> acta [d<em>ict</em>i] D. Spada<em>e</em>, quod d<em>ict</em>a<em>e</em> ex[e]-<span class=\"line-break\"><br></span>quutor mihi etc. d[...]m[...] et eid<em>em</em> D. Sp[ada<em>e</em> ill]ius copia<em>m</em> collatam<span class=\"line-break\"><br></span>fact[...] dedit Tenoris etc. tamq<em>ue</em> o[...]m[...] filius Superioru' pa-<span class=\"line-break\"><br></span>rendo mandatis in vim d<em>ict</em>i mandati, et omni ali[o]<span class=\"line-break\"><br></span>m[e]l[i]ori modo etc. imp[os]it, [e]t immisit etc. d<em>ict</em>os D.D. Pi[ct]or[es]</p><p></p><p>[1]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1#xywh=838,428,380,174",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Curia<em>e</em> Capitolii (Curia Capitolina)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1#xywh=945,609,371,136",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Confraternitatem (confraternity)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1#xywh=1373,1154,197,123",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>posses-<span class=\"line-break\"><br></span>sionem (possession)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2",
-            "type": "Canvas",
-            "height": 2245,
-            "width": 1621,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516200131f300v"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/cb175e62f8c556d5afaecc8f9867fe50/full/217,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 217
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/cb175e62f8c556d5afaecc8f9867fe50/full/1444,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1444,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/cb175e62f8c556d5afaecc8f9867fe50",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 300v]</p><p>et [Scu]lptor[e]s Urbis, eorumq<em>ue</em> Ven<em>erabilem</em> Confraternitatem<span class=\"line-break\"><br></span>S<em>anc</em>ti Luca<em>e</em>, et pro eis Ill. re<em>m</em> et Ex. te<em>m</em> D. <a href=\"https://www.nga.gov/accademia/en/persons/marco-antonio-amati.html\">Marcu</a><em><a href=\"https://www.nga.gov/accademia/en/persons/marco-antonio-amati.html\">m</a></em><a href=\"https://www.nga.gov/accademia/en/persons/marco-antonio-amati.html\"> Ant.m de Ama-<span class=\"line-break\"><br></span>tis</a> de Genazzano V.I.D. Proc<em>urato</em>re<em>m</em> ex actis mei etc. die qui<em>n</em>ta<span class=\"line-break\"><br></span>p<em>rese</em>ntis mensis Ianuarii ad h<em>a</em>ec specialiter constitutum ibide<em>m</em><span class=\"line-break\"><br></span>p<em>res</em>ente<em>m</em>, et una nobiscu<em>m</em> notariis acceptantem etc. in<span class=\"line-break\"><br></span>possessionem realem, actualem, Civilem, et corporalem<span class=\"line-break\"><br></span>unius situs, seu discoperti positi Roma<em>e</em> apud d<em>ictu</em>m forum<span class=\"line-break\"><br></span>boarium iuxta ad uno d<em>icta</em>m ecclesia<em>m</em>, et ab alio bona ip-<span class=\"line-break\"><br></span>sius Ecclesia<em>e</em>, ab alio lateribus bona <a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\">B</a><em><a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\">eatissi</a></em><a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\">ma</a><em><a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\"> Maria</a><em><a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\">e</a></em><a href=\"https://www.nga.gov/accademia/en/places/Church_of_Santa_Maria_di_Loreto.html\"> de laureto</a>,<span class=\"line-break\"><br></span>retro bona D. Petri Martiris, et ante viam publicam,<span class=\"line-break\"><br></span>vel si qui etc. omniumq<em>ue</em>, et singulor<em>um</em> illius Iuriu<em>m</em>, et perti-<span class=\"line-break\"><br></span>nentiarum amotis exed[...] discoperto nonnullis famu-<span class=\"line-break\"><br></span>lis <a href=\"https://www.nga.gov/accademia/en/persons/santi-ghetti.html\">Sancti Ghetti </a>Scarpellini eiusd<em>em</em> situs Inquilini, Qui<span class=\"line-break\"><br></span>D. <a href=\"https://www.nga.gov/accademia/en/persons/marco-antonio-amati.html\">Marcus Antonius </a>sic impositus, et immissus uti pro<em>urato</em>r<span class=\"line-break\"><br></span>p<em>redict</em>us possessionem p<em>redic</em>tam realem, actualem, Civilem,<span class=\"line-break\"><br></span>et Corporalem d<em>ict</em>i Situs, seu discoperti adeptus fuit etc. p<em>er</em><span class=\"line-break\"><br></span>d<em>ictu</em>m discopertum, vel situm deambulando, stando,<span class=\"line-break\"><br></span>Cancellum eiusd<em>em</em> apriendo, et claudendo, aliosq<em>ue</em><span class=\"line-break\"><br></span>actu<em>s</em> possessorios, qui veram denotant possessione<em>m</em><span class=\"line-break\"><br></span>f[acien]do, cum expressa tamen p<em>ro</em>testatione, quod p<em>ro</em><span class=\"line-break\"><br></span>[...] d<em>ict</em>o situ no<em>n</em> intendit possessione<em>m</em> p<em>re</em>fatam<span class=\"line-break\"><br></span>d[i]mictere, sed illa<em>m</em> quo s<em>upr</em>a nomine animo, et cor-<span class=\"line-break\"><br></span>pore cont[i]n[uare] p[<em>redic</em>to], et [omni alio meliori] modo etc.<span class=\"line-break\"><br></span>Super</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2#xywh=996,411,163,95",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Proc<em>urato</em>re<em>m </em>(procurator)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2#xywh=746,1178,346,84",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Scarpellini (stone carver)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2#xywh=1270,1194,287,100",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Inquilini (tenant)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3",
-            "type": "Canvas",
-            "height": 2249,
-            "width": 1557,
-            "label": {
-                "none": [
-                    "ASRTNCUff1516200131f301r"
-                ]
-            },
-            "thumbnail": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/8ab7ff4a283b88789b707803c47d3991/full/208,300/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 300,
-                    "width": 208
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-1/anno-1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3",
-                            "body": {
-                                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/8ab7ff4a283b88789b707803c47d3991/full/1385,2000/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 2000,
-                                "width": 1385,
-                                "service": [
-                                    {
-                                        "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/8ab7ff4a283b88789b707803c47d3991",
-                                        "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>[fol. 301r]</p><p>Super quibus etc. Actum Roma<em>e</em> in eod<em>em</em> etc. Discoperto<span class=\"line-break\"><br></span>Presentib<em>us</em> etc. <a href=\"https://www.nga.gov/accademia/en/persons/francesco-zucco.html\">Francisco Zuccho</a> de fideno Triventi-<span class=\"line-break\"><br></span>na<em>e</em> diocesis, et liberatore q. Paulini de eod<em>em</em> testibus etc.<span class=\"line-break\"><br></span>Deinde Sup<em>radic</em>tus <a href=\"https://www.nga.gov/accademia/en/persons/santi-ghetti.html\">Sanctes Ghettus</a> Scarpellinus inquilinus d<em>ict</em>i situs<span class=\"line-break\"><br></span>habita notitia, et nihil<em>ominu</em>s et<em>iam</em> p<em>er</em> nos etc. plene informatus<span class=\"line-break\"><br></span>de Sup<em>radic</em>ta<em>m</em> possessione<em>m</em> Sponte etc. omni etc. recognovit etc. in Do-<span class=\"line-break\"><br></span>minos, patronos, et possessores d<em>ict</em>i situs sup<em>radic</em>tos D.D. Pict[o]-<span class=\"line-break\"><br></span>res, et Sculptores, eorumq<em>ue</em> Confraternitate<em>m</em> licet ab-<span class=\"line-break\"><br></span>sen<em>tem</em>, d<em>ict</em>o D. <a href=\"https://www.nga.gov/accademia/en/persons/marco-antonio-amati.html\">Marco Antonio</a> eor<em>um</em> Proc<em>urato</em>re p<em>er</em> nos cognito<span class=\"line-break\"><br></span>una nobiscu<em>m</em> [n]ot<em>ar</em>iis<sup>[2]</sup> etc. acceptante etc. promisitq<em>ue</em><span class=\"line-break\"><br></span>pensiones decursas, et no<em>n</em> solutas, et decurrendas eius-<span class=\"line-break\"><br></span>dem situs, seu discoperti persolvere suis debitis tem-<span class=\"line-break\"><br></span>porib<em>us</em> ad annua<em>m</em> rationem Scutor<em>um</em> d[e]ce<em>m</em>, et [...]<span class=\"line-break\"><br></span>m<em>one</em>ta<em>e</em> libere etc. al<em>ia</em>s etc. et<em>iam</em> ad omnia damna etc. de qui[bus etc.]<span class=\"line-break\"><br></span>quod etc. Proquib<em>us</em> etc. se etc. bonaq<em>ue</em> etc. in forma Camera<em>e</em> etc. cu[m]<span class=\"line-break\"><br></span>clausulis etc. obligavit etc. citra etc. app<em>ellatio</em>ni etc. renunciavit, c[on]-<span class=\"line-break\"><br></span>sensiens etc. unica etc. et ita tactis etc. Iuravit etc. Sup<em>er</em> quibus etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Roma<em>e</em> ante d<em>ict</em>a<em>m</em> ecclesia<em>m</em> S<em>anc</em>ta<em>e</em> Martina<em>e</em>, Presentib<em>us</em> etc. Supra-<span class=\"line-break\"><br></span>dictis Testibus etc.</p><p></p><p>[2]&nbsp;Uncertain.</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=656,220,245,97",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Actum (act)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-3",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=314,1032,268,145",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>pensiones (rent)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-4",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=1247,1089,191,86",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>debitis (debit)</p>"
-                            }
-                        },
-                        {
-                            "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-5",
-                            "type": "Annotation",
-                            "motivation": "tagging",
-                            "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=1003,1323,408,142",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>in forma Camera<em>e </em>(Cameral obligation)</p>"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "ASRTNCUff1516200131"
     ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Archive"
+        ]
+      },
+      "value": {
+        "none": [
+          "Archivio di Stato di Roma (ASR)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "none": [
+          "Uff. 15 Pt. 1 Vol. 83 fols. 300r-v, 301r"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1620"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trenta Notai Capitolini (TNC)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Erasto Spannocchia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Possession"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Roman Forum (Campo Vaccino); Rome; Church of Santa Martina; Church of Santa Maria di Loreto; Church of San Nicola dei Lorenesi"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Associated name"
+        ]
+      },
+      "value": {
+        "none": [
+          "Antonio Mancini; Marco Antonio Amati; Santi Ghetti; Silvestro Spada; Michele Timotei; Francesco Zucco"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language of document"
+        ]
+      },
+      "value": {
+        "none": [
+          "Latin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "[English version]  Antonio Mancini, executor of the Curia Capitolina, has a writ of execution to allow the Confraternita di San Luca to take possession of the church of Santa Martina. The church of Santa Martina, together with all its goods, has been given over to the Confraternita. Consequently, Marco Antonio Amati, procurator, takes possession of a house by performing the acts of possession. Santi Ghetti, tenant, recognizes the Confraternita as possessor and promises to pay the rent.    [Italian version]  Antonio Mancini, esecutore della Curia capitolina, ha un mandato per immettere la confraternità di San Luca nella chiesa di Santa Martina. La chiesa di Santa Martina è stata concessa in possesso alla confraternità di San Luca insieme a tutti i suoi beni. Il procuratore Marco Antonio Amati prende dunque possesso di una casa, attraverso gli atti possessori. Santi Ghetti, inquilino, riconosce come possessore la confraternita di San Luca, e promette di pagare la pensione."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key terms"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rent",
+          "Goods",
+          "Painter",
+          "Procurator",
+          "Sculptor",
+          "Confraternity",
+          "Society",
+          "Sodality",
+          "Obligation",
+          "Salary",
+          "Possession",
+          "Tenant",
+          "Stone carver",
+          "Executor",
+          "Mandate",
+          "Vicar general",
+          "Debit",
+          "Act",
+          "Curia Capitolina"
+        ]
+      }
+    }
+  ],
+  "rights": "Archivio di Stato di Roma (ASR)",
+  "thumbnail": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb/full/229,300/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 229
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1",
+      "type": "Canvas",
+      "height": 2156,
+      "width": 1648,
+      "label": {
+        "none": [
+          "ASRTNCUff1516200131f300r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb/full/229,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 229
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb/full/1529,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1529,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/c9ff440a0f2ada10cc49e230b9c5decb",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 300r]</p><p>Possessiones Pro Ven<em>erabile</em> Soci<em>eta</em>t<em>e</em> S<em>anc</em>ti Luca<em>e</em> Pictorum, et [Scul]toru<em>m</em> Urbis<span class=\"line-break\"><br></span>Insol<em>idu</em>m cu<em>m</em> D. Silvestro Spada Not<em>ari</em>o Vicarii</p><p></p><p>Die 31 Ianuarii 1620</p><p></p><p>Antonius Mancinus Firmanus Curia<em>e</em> Capitolii exécutor pra<em>e</em>[ ...]<sup>[1]</sup>-<span class=\"line-break\"><br></span>onibus habens mandatum de immictendo DD. Pictores et<span class=\"line-break\"><br></span>Sculptores Urbis, vice eorum Confraternitatem Sancti Luca<em>e</em><span class=\"line-break\"><br></span>in Ecclesia Sancta<em>e</em> Martina<em>e</em> ad forum boarium, qua<em>e</em> cu<em>m</em><span class=\"line-break\"><br></span>omnibus illius bonis etc. al<em>ia</em>s auc<em>torita</em>te Ap<em>ostoli</em>ca pr<em>a</em>evia tamen ab[di]-<span class=\"line-break\"><br></span>catione Cura<em>e</em> Animarum, et oneris P[a]rrocchialis à d<em>ict</em>a Ecc[le]-<span class=\"line-break\"><br></span>sia ad Sancti Nicolai, et Sancti Laurentioli resp<em>ectiv</em>e eccle-<span class=\"line-break\"><br></span>sias p<em>er</em> liberam resignationem R. D. Michaelis Thimot[...]<span class=\"line-break\"><br></span>tunc ipsius ecc[le]sia<em>e</em> S<em>anc</em>ta<em>e</em> Martina<em>e</em> Parrochi facta eis[dem]<span class=\"line-break\"><br></span>DD. Pictoribus, et Sculptoribus concessa fuit in posses-<span class=\"line-break\"><br></span>sionem omnium, et singulorum d<em>ic</em>ta<em>e</em> Ecclesia<em>e</em> Sancta<em>e</em> Mar[tina<em>e</em>]<span class=\"line-break\"><br></span>bonorum etiam quo ad usu<em>m</em>fructum nuper p<em>ro</em> obitum d<em>ict</em>i [R.]<span class=\"line-break\"><br></span>D. Michaelis cum proprietate consolidatum sub hodiern[a]<span class=\"line-break\"><br></span>die obtentum à R. p. D. Trivultio Ill.mi, et R.mi D. Cardina[lis]<span class=\"line-break\"><br></span>Vicarii in Civilibus l<em>ocum</em>t<em>enent</em>e p<em>er</em> acta [d<em>ict</em>i] D. Spada<em>e</em>, quod d<em>ict</em>a<em>e</em> ex[e]-<span class=\"line-break\"><br></span>quutor mihi etc. d[...]m[...] et eid<em>em</em> D. Sp[ada<em>e</em> ill]ius copia<em>m</em> collatam<span class=\"line-break\"><br></span>fact[...] dedit Tenoris etc. tamq<em>ue</em> o[...]m[...] filius Superioru' pa-<span class=\"line-break\"><br></span>rendo mandatis in vim d<em>ict</em>i mandati, et omni ali[o]<span class=\"line-break\"><br></span>m[e]l[i]ori modo etc. imp[os]it, [e]t immisit etc. d<em>ict</em>os D.D. Pi[ct]or[es]</p><p></p><p>[1]&nbsp;Brackets denote illegible passages due to holes in the document or ink spots on paper.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1#xywh=838,428,380,174",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Curia<em>e</em> Capitolii (Curia Capitolina)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1#xywh=945,609,371,136",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Confraternitatem (confraternity)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/1#xywh=1373,1154,197,123",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>posses-<span class=\"line-break\"><br></span>sionem (possession)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2",
+      "type": "Canvas",
+      "height": 2245,
+      "width": 1621,
+      "label": {
+        "none": [
+          "ASRTNCUff1516200131f300v"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/cb175e62f8c556d5afaecc8f9867fe50/full/217,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 217
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/cb175e62f8c556d5afaecc8f9867fe50/full/1444,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1444,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/cb175e62f8c556d5afaecc8f9867fe50",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 300v]</p><p>et [Scu]lptor[e]s Urbis, eorumq<em>ue</em> Ven<em>erabilem</em> Confraternitatem<span class=\"line-break\"><br></span>S<em>anc</em>ti Luca<em>e</em>, et pro eis Ill. re<em>m</em> et Ex. te<em>m</em> D. Marcu<em>m</em> Ant.m de Ama-<span class=\"line-break\"><br></span>tis de Genazzano V.I.D. Proc<em>urato</em>re<em>m</em> ex actis mei etc. die qui<em>n</em>ta<span class=\"line-break\"><br></span>p<em>rese</em>ntis mensis Ianuarii ad h<em>a</em>ec specialiter constitutum ibide<em>m</em><span class=\"line-break\"><br></span>p<em>res</em>ente<em>m</em>, et una nobiscu<em>m</em> notariis acceptantem etc. in<span class=\"line-break\"><br></span>possessionem realem, actualem, Civilem, et corporalem<span class=\"line-break\"><br></span>unius situs, seu discoperti positi Roma<em>e</em> apud d<em>ictu</em>m forum<span class=\"line-break\"><br></span>boarium iuxta ad uno d<em>icta</em>m ecclesia<em>m</em>, et ab alio bona ip-<span class=\"line-break\"><br></span>sius Ecclesia<em>e</em>, ab alio lateribus bona B<em>eatissi</em>ma<em>e</em> Maria<em>e</em> de laureto,<span class=\"line-break\"><br></span>retro bona D. Petri Martiris, et ante viam publicam,<span class=\"line-break\"><br></span>vel si qui etc. omniumq<em>ue</em>, et singulor<em>um</em> illius Iuriu<em>m</em>, et perti-<span class=\"line-break\"><br></span>nentiarum amotis exed[...] discoperto nonnullis famu-<span class=\"line-break\"><br></span>lis Sancti Ghetti Scarpellini eiusd<em>em</em> situs Inquilini, Qui<span class=\"line-break\"><br></span>D. Marcus Antonius sic impositus, et immissus uti pro<em>urato</em>r<span class=\"line-break\"><br></span>p<em>redict</em>us possessionem p<em>redic</em>tam realem, actualem, Civilem,<span class=\"line-break\"><br></span>et Corporalem d<em>ict</em>i Situs, seu discoperti adeptus fuit etc. p<em>er</em><span class=\"line-break\"><br></span>d<em>ictu</em>m discopertum, vel situm deambulando, stando,<span class=\"line-break\"><br></span>Cancellum eiusd<em>em</em> apriendo, et claudendo, aliosq<em>ue</em><span class=\"line-break\"><br></span>actu<em>s</em> possessorios, qui veram denotant possessione<em>m</em><span class=\"line-break\"><br></span>f[acien]do, cum expressa tamen p<em>ro</em>testatione, quod p<em>ro</em><span class=\"line-break\"><br></span>[...] d<em>ict</em>o situ no<em>n</em> intendit possessione<em>m</em> p<em>re</em>fatam<span class=\"line-break\"><br></span>d[i]mictere, sed illa<em>m</em> quo s<em>upr</em>a nomine animo, et cor-<span class=\"line-break\"><br></span>pore cont[i]n[uare] p[<em>redic</em>to], et [omni alio meliori] modo etc.<span class=\"line-break\"><br></span>Super</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2#xywh=996,411,163,95",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Proc<em>urato</em>re<em>m </em>(procurator)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2#xywh=746,1178,346,84",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Scarpellini (stone carver)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/2#xywh=1270,1194,287,100",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Inquilini (tenant)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3",
+      "type": "Canvas",
+      "height": 2249,
+      "width": 1557,
+      "label": {
+        "none": [
+          "ASRTNCUff1516200131f301r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/8ab7ff4a283b88789b707803c47d3991/full/208,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 208
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-1/anno-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3",
+              "body": {
+                "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/8ab7ff4a283b88789b707803c47d3991/full/1385,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1385,
+                "service": [
+                  {
+                    "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/8ab7ff4a283b88789b707803c47d3991",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>[fol. 301r]</p><p>Super quibus etc. Actum Roma<em>e</em> in eod<em>em</em> etc. Discoperto<span class=\"line-break\"><br></span>Presentib<em>us</em> etc. Francisco Zuccho de fideno Triventi-<span class=\"line-break\"><br></span>na<em>e</em> diocesis, et liberatore q. Paulini de eod<em>em</em> testibus etc.<span class=\"line-break\"><br></span>Deinde Sup<em>radic</em>tus Sanctes Ghettus Scarpellinus inquilinus d<em>ict</em>i situs<span class=\"line-break\"><br></span>habita notitia, et nihil<em>ominu</em>s et<em>iam</em> p<em>er</em> nos etc. plene informatus<span class=\"line-break\"><br></span>de Sup<em>radic</em>ta<em>m</em> possessione<em>m</em> Sponte etc. omni etc. recognovit etc. in Do-<span class=\"line-break\"><br></span>minos, patronos, et possessores d<em>ict</em>i situs sup<em>radic</em>tos D.D. Pict[o]-<span class=\"line-break\"><br></span>res, et Sculptores, eorumq<em>ue</em> Confraternitate<em>m</em> licet ab-<span class=\"line-break\"><br></span>sen<em>tem</em>, d<em>ict</em>o D. Marco Antonio eor<em>um</em> Proc<em>urato</em>re p<em>er</em> nos cognito<span class=\"line-break\"><br></span>una nobiscu<em>m</em> [n]ot<em>ar</em>iis<sup>[2]</sup> etc. acceptante etc. promisitq<em>ue</em><span class=\"line-break\"><br></span>pensiones decursas, et no<em>n</em> solutas, et decurrendas eius-<span class=\"line-break\"><br></span>dem situs, seu discoperti persolvere suis debitis tem-<span class=\"line-break\"><br></span>porib<em>us</em> ad annua<em>m</em> rationem Scutor<em>um</em> d[e]ce<em>m</em>, et [...]<span class=\"line-break\"><br></span>m<em>one</em>ta<em>e</em> libere etc. al<em>ia</em>s etc. et<em>iam</em> ad omnia damna etc. de qui[bus etc.]<span class=\"line-break\"><br></span>quod etc. Proquib<em>us</em> etc. se etc. bonaq<em>ue</em> etc. in forma Camera<em>e</em> etc. cu[m]<span class=\"line-break\"><br></span>clausulis etc. obligavit etc. citra etc. app<em>ellatio</em>ni etc. renunciavit, c[on]-<span class=\"line-break\"><br></span>sensiens etc. unica etc. et ita tactis etc. Iuravit etc. Sup<em>er</em> quibus etc.<span class=\"line-break\"><br></span>Actu<em>m</em> Roma<em>e</em> ante d<em>ict</em>a<em>m</em> ecclesia<em>m</em> S<em>anc</em>ta<em>e</em> Martina<em>e</em>, Presentib<em>us</em> etc. Supra-<span class=\"line-break\"><br></span>dictis Testibus etc.</p><p></p><p>[2]&nbsp;Uncertain.</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-2",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=656,220,245,97",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>Actum (act)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-3",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=314,1032,268,145",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>pensiones (rent)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-4",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=1247,1089,191,86",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>debitis (debit)</p>"
+              }
+            },
+            {
+              "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3/annopage-2/anno-5",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "target": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1516200131/canvas/3#xywh=1003,1323,408,142",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "value": "<p>in forma Camera<em>e </em>(Cameral obligation)</p>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

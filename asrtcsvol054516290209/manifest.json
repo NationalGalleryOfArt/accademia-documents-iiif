@@ -132,11 +132,11 @@
   "rights": "Archivio di Stato di Roma (ASR)",
   "thumbnail": [
     {
-      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290209/f89dcb234fd87460f9a493bce53b92ac/full/202,300/0/default.jpg",
+      "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290209/f89dcb234fd87460f9a493bce53b92ac/full/1347,2000/0/default.jpg",
       "type": "Image",
       "format": "image/jpeg",
-      "height": 300,
-      "width": 202
+      "height": 2000,
+      "width": 1347
     }
   ],
   "items": [
@@ -152,11 +152,11 @@
       },
       "thumbnail": [
         {
-          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290209/f89dcb234fd87460f9a493bce53b92ac/full/202,300/0/default.jpg",
+          "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtcsvol054516290209/f89dcb234fd87460f9a493bce53b92ac/full/1347,2000/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
-          "height": 300,
-          "width": 202
+          "height": 2000,
+          "width": 1327
         }
       ],
       "items": [

@@ -1,5 +1,5 @@
-tagging{
-    "@context": "http://iiif.io/api/presentation/3/context.json",
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://nationalgalleryofart.github.io/accademia-documents-iiif/asrtncuff1115981115/manifest.json",
     "type": "Manifest",
     "label": {

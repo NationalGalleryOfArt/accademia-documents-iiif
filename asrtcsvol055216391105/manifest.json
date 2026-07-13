@@ -201,7 +201,7 @@
               "body": {
                 "type": "TextualBody",
                 "format": "text/html",
-                "value": "<p>Summary</p><p></p><p>[English version]</p><p>The Accademia di San Luca, represented by its <em>camerario</em> [treasurer] Giovanni Battista Soria, petitions the civil court of the senator of Rome against Camilla [Angeletta], Giovanni Mattia, and Paolo Felice Renzi for payment owed.</p><p></p><p>[Italian version]</p><p>L’Accademia di San Luca ricorre presso il tribunale civile del senatore di Roma, assistita dal proprio camerario [tesoriere] Giovanni Battista Soria, contro Camilla Angeletta, Giovanni Mattia e Paolo Felice de Renzi in obbligo ad un pagamento.</p>"
+                "value": "<p>[fol. 946r]</p><p>Pro Ven.li Accademia Pictoru<em>m</em>, et Scultorum principalibus<span class=\"line-break\"><br></span>contra Infra<em>scri</em>ptos ex <em>adverso principa</em>les videlicet Ill. D. Camillam<span class=\"line-break\"><br></span>Angelettam, et PerIll.res DD. Io.em Mattheum</p>"
               }
             }
           ]
